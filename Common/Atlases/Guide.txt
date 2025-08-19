@@ -1,0 +1,3 @@
+Atlases can be used to store long strips of unique textures for small items such as props.
+
+https://www.youtube.com/watch?v=_d-YUmTsRhk
