@@ -1,1 +1,1 @@
-Kits should contain every asset used to create the starter pack
+Kits should contain every unique asset used to create the starter pack. Common assets should be excluded.

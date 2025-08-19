@@ -1,0 +1,1 @@
+Docs should include a list of the assets in the kit as well as which materials/trim sheets ect. are referenced by the kit.
