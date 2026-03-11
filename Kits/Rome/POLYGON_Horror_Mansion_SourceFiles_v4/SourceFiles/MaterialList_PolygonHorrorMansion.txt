@@ -1,0 +1,3689 @@
+-------------------
+Folder Name: Buildings
+-------------------
+Prefab Name: SM_Bld_Architrave_01
+    Mesh Name: SM_Bld_Architrave_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Architrave_02
+    Mesh Name: SM_Bld_Architrave_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Architrave_03
+    Mesh Name: SM_Bld_Architrave_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Architrave_04
+    Mesh Name: SM_Bld_Architrave_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Architrave_05
+    Mesh Name: SM_Bld_Architrave_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Architrave_06
+    Mesh Name: SM_Bld_Architrave_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Balcony_01
+    Mesh Name: SM_Bld_Balcony_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Balcony_02
+    Mesh Name: SM_Bld_Balcony_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Basement_Entrance_01
+    Mesh Name: SM_Bld_Basement_Entrance_01
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+    Mesh Name: SM_Bld_Basement_Entrance_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Basement_Entrance_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Basement_Entrance_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Base_Ceiling_01
+    Mesh Name: SM_Bld_Base_Ceiling_01
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Door_01
+    Mesh Name: SM_Bld_Base_Door_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Door_Large_01
+    Mesh Name: SM_Bld_Base_Door_Large_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Floor_01
+    Mesh Name: SM_Bld_Base_Floor_01
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Floor_Combined_01
+    Mesh Name: SM_Bld_Base_Floor_Combined_01
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Pillar_01
+    Mesh Name: SM_Bld_Base_Pillar_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_02
+    Mesh Name: SM_Bld_Base_Pillar_02
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_03
+    Mesh Name: SM_Bld_Base_Pillar_03
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_04
+    Mesh Name: SM_Bld_Base_Pillar_04
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_05
+    Mesh Name: SM_Bld_Base_Pillar_05
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_01
+    Mesh Name: SM_Bld_Base_Pillar_Half_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_02
+    Mesh Name: SM_Bld_Base_Pillar_Half_02
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_03
+    Mesh Name: SM_Bld_Base_Pillar_Half_03
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_04
+    Mesh Name: SM_Bld_Base_Pillar_Half_04
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_05
+    Mesh Name: SM_Bld_Base_Pillar_Half_05
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Metal_01
+    Mesh Name: SM_Bld_Base_Pillar_Metal_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Pillar_Metal_02
+    Mesh Name: SM_Bld_Base_Pillar_Metal_02
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Stairs_01
+    Mesh Name: SM_Bld_Base_Stairs_01
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_01
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_04_Trimless (WallPaper_Tex_04_Trimless)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_01_Carpet
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_01_Carpet
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_02
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Default-Material (No Albedo Texture)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_02_Carpet
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_02_Carpet
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_02_Short
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_02_Short
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_Pillar_01
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_Pillar_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_Railing_01
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_Railing_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_Rail_01
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_Rail_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Base_Stairs_Ornate_Rail_Angled_01
+    Mesh Name: SM_Bld_Base_Stairs_Ornate_Rail_Angled_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Base_Staris_02
+    Mesh Name: SM_Bld_Base_Staris_02
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+
+Prefab Name: SM_Bld_Base_Wall_01
+    Mesh Name: SM_Bld_Base_Wall_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Door_01
+    Mesh Name: SM_Bld_Base_Wall_Door_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Double_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Double_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Double_Large_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Double_Large_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Large_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Large_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Glass_01
+    Mesh Name: SM_Bld_Base_Wall_Glass_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Glass_01_Glass
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Glass_Blank_01
+    Mesh Name: SM_Bld_Base_Wall_Glass_Blank_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Glass_Blank_01_Glass
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Glass_Blank_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Glass_Blank_Half_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Glass_Blank_Half_01_Glass
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Glass_Door_01
+    Mesh Name: SM_Bld_Base_Wall_Glass_Door_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Glass_Door_01_Glass
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Base_Wall_Glass_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Glass_Half_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Glass_Half_01_Glass
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Half_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Half_02
+    Mesh Name: SM_Bld_Base_Wall_Half_02
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Quarter_01
+    Mesh Name: SM_Bld_Base_Wall_Quarter_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Base_Wall_Window_01
+    Mesh Name: SM_Bld_Base_Wall_Window_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Window_01_Glass
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Base_Wall_Window_Double_01
+    Mesh Name: SM_Bld_Base_Wall_Window_Double_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Window_Double_01_Glass
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Base_Wall_Window_Low_01
+    Mesh Name: SM_Bld_Base_Wall_Window_Low_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+    Mesh Name: SM_Bld_Base_Wall_Window_Low_01_Glass
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Beam_01
+    Mesh Name: SM_Bld_Beam_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_01
+    Mesh Name: SM_Bld_Bookshelf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_01_Insert_01
+    Mesh Name: SM_Bld_Bookshelf_01_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_01_Insert_02
+    Mesh Name: SM_Bld_Bookshelf_01_Insert_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_01_Insert_03
+    Mesh Name: SM_Bld_Bookshelf_01_Insert_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_02
+    Mesh Name: SM_Bld_Bookshelf_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_02_Insert_01
+    Mesh Name: SM_Bld_Bookshelf_02_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_02_Insert_02
+    Mesh Name: SM_Bld_Bookshelf_02_Insert_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_02_Insert_03
+    Mesh Name: SM_Bld_Bookshelf_02_Insert_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_03
+    Mesh Name: SM_Bld_Bookshelf_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_03_Insert_01
+    Mesh Name: SM_Bld_Bookshelf_03_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_03_Insert_02
+    Mesh Name: SM_Bld_Bookshelf_03_Insert_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_03_Insert_03
+    Mesh Name: SM_Bld_Bookshelf_03_Insert_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_Door_01
+    Mesh Name: SM_Bld_Bookshelf_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Bookshelf_Door_01_Door
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_Door_01_End_Pillar_01
+    Mesh Name: SM_Bld_Bookshelf_Door_01_End_Pillar_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_Door_02_Insert_01
+    Mesh Name: SM_Bld_Bookshelf_Door_02_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_Door_02_Insert_02
+    Mesh Name: SM_Bld_Bookshelf_Door_02_Insert_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Bookshelf_Door_02_Insert_03
+    Mesh Name: SM_Bld_Bookshelf_Door_02_Insert_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Ceiling_01
+    Mesh Name: SM_Bld_Ceiling_01
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Ceiling_02
+    Mesh Name: SM_Bld_Ceiling_02
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Ceiling_03
+    Mesh Name: SM_Bld_Ceiling_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_02 (Wood_02)
+        Slot: Carpet_03 (Carpet_03)
+
+Prefab Name: SM_Bld_Cell_Door_01
+    Mesh Name: SM_Bld_Cell_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Cell_Door_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Cell_Door_01_Latch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Chimney_Base_01
+    Mesh Name: SM_Bld_Chimney_Base_01
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Chimney_Middle_01
+    Mesh Name: SM_Bld_Chimney_Middle_01
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Chimney_Top_01
+    Mesh Name: SM_Bld_Chimney_Top_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Chimney_Top_02
+    Mesh Name: SM_Bld_Chimney_Top_02
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Chimney_Transition_01
+    Mesh Name: SM_Bld_Chimney_Transition_01
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Door_01
+    Mesh Name: SM_Bld_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Door_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Door_01_Mail_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Door_02
+    Mesh Name: SM_Bld_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Door_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Door_03
+    Mesh Name: SM_Bld_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Door_04
+    Mesh Name: SM_Bld_Door_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Door_04_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Door_05
+    Mesh Name: SM_Bld_Door_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Door_06
+    Mesh Name: SM_Bld_Door_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_01
+    Mesh Name: SM_Bld_Fence_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Brick_01
+    Mesh Name: SM_Bld_Fence_Brick_01
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Fence_Brick_02
+    Mesh Name: SM_Bld_Fence_Brick_02
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Fence_Brick_Pillar_01
+    Mesh Name: SM_Bld_Fence_Brick_Pillar_01
+        Slot: Brick_Brown_Mat_01 (Brick_Brown_Tex)
+
+Prefab Name: SM_Bld_Fence_Gate_01
+    Mesh Name: SM_Bld_Fence_Gate_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fence_Gate_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Gate_02
+    Mesh Name: SM_Bld_Fence_Gate_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fence_Gate_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Gate_Fancy_01
+    Mesh Name: SM_Bld_Fence_Gate_Fancy_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fence_Gate_Fancy_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Gate_Fancy_02
+    Mesh Name: SM_Bld_Fence_Gate_Fancy_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fence_Gate_Fancy_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Gate_Small_01
+    Mesh Name: SM_Bld_Fence_Gate_Small_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fence_Gate_Small_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Top_Lamp_02
+    Mesh Name: SM_Bld_Fence_Top_Lamp_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Top_Spikes_01
+    Mesh Name: SM_Bld_Fence_Top_Spikes_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Fireplace_01
+    Mesh Name: SM_Bld_Fireplace_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fireplace_01_Brazier_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Fireplace_01_Guard_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Floor_Combined_02
+    Mesh Name: SM_Bld_Floor_Combined_02
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Carpet_Evil_01 (Carpet_Tex_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Floor_Combined_Half_01
+    Mesh Name: SM_Bld_Floor_Combined_Half_01
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Carpet_01 (Carpet_01)
+
+Prefab Name: SM_Bld_Floor_Combined_Small_01
+    Mesh Name: SM_Bld_Floor_Combined_Small_01
+        Slot: Carpet_01 (Carpet_01)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+
+Prefab Name: SM_Bld_Glasshouse_Door_01
+    Mesh Name: SM_Bld_Glasshouse_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Door_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+    Mesh Name: SM_Bld_Glasshouse_Door_L_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Door_L_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+    Mesh Name: SM_Bld_Glasshouse_Door_R_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Door_R_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Peak_01
+    Mesh Name: SM_Bld_Glasshouse_Peak_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Glasshouse_Peak_02
+    Mesh Name: SM_Bld_Glasshouse_Peak_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Cap_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Cap_Angled_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Center_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Center_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Center_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_02
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Cap_Angled_Corner_02_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Corner_01
+    Mesh Name: SM_Bld_Glasshouse_Roof_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Corner_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Roof_Corner_02
+    Mesh Name: SM_Bld_Glasshouse_Roof_Corner_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Roof_Corner_02_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Wall_01
+    Mesh Name: SM_Bld_Glasshouse_Wall_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Wall_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Wall_Half_01
+    Mesh Name: SM_Bld_Glasshouse_Wall_Half_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Wall_Half_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Glasshouse_Wall_Half_02
+    Mesh Name: SM_Bld_Glasshouse_Wall_Half_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Glasshouse_Wall_Half_02_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Bld_Gutter_01
+    Mesh Name: SM_Bld_Gutter_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Gutter_02
+    Mesh Name: SM_Bld_Gutter_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Gutter_03
+    Mesh Name: SM_Bld_Gutter_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_01
+    Mesh Name: SM_Bld_Pillar_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_02
+    Mesh Name: SM_Bld_Pillar_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_03
+    Mesh Name: SM_Bld_Pillar_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_04
+    Mesh Name: SM_Bld_Pillar_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_06
+    Mesh Name: SM_Bld_Pillar_06
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+
+Prefab Name: SM_Bld_Pillar_Half_01
+    Mesh Name: SM_Bld_Pillar_Half_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_Half_02
+    Mesh Name: SM_Bld_Pillar_Half_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_Half_03
+    Mesh Name: SM_Bld_Pillar_Half_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Pillar_Half_04
+    Mesh Name: SM_Bld_Pillar_Half_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Planter_Box_01
+    Mesh Name: SM_Bld_Planter_Box_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Planter_Box_01_Plant_01
+    Mesh Name: SM_Bld_Planter_Box_01_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Planter_Box_02
+    Mesh Name: SM_Bld_Planter_Box_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Planter_Box_02_Plant_01
+    Mesh Name: SM_Bld_Planter_Box_02_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Pillar_01
+    Mesh Name: SM_Bld_Porch_Pillar_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Pillar_02
+    Mesh Name: SM_Bld_Porch_Pillar_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Pillar_03
+    Mesh Name: SM_Bld_Porch_Pillar_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Pillar_04
+    Mesh Name: SM_Bld_Porch_Pillar_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Rail_01
+    Mesh Name: SM_Bld_Porch_Rail_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Porch_Roof_01
+    Mesh Name: SM_Bld_Porch_Roof_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Porch_Roof_02
+    Mesh Name: SM_Bld_Porch_Roof_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Porch_Roof_03
+    Mesh Name: SM_Bld_Porch_Roof_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Porch_Roof_Ornament_01
+    Mesh Name: SM_Bld_Porch_Roof_Ornament_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Porch_Side_01
+    Mesh Name: SM_Bld_Porch_Side_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_01
+    Mesh Name: SM_Bld_Roof_01
+        Slot: Horror_Roof_01 (Tile_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_01_Corner_01
+    Mesh Name: SM_Bld_Roof_01_Corner_01
+        Slot: Horror_Roof_01 (Tile_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_01_Corner_02
+    Mesh Name: SM_Bld_Roof_01_Corner_02
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Horror_Roof_01 (Tile_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_01_End_Cap_01
+    Mesh Name: SM_Bld_Roof_01_End_Cap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Cresting_01
+    Mesh Name: SM_Bld_Roof_Cresting_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Cresting_01_Corner_01
+    Mesh Name: SM_Bld_Roof_Cresting_01_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Eave_01
+    Mesh Name: SM_Bld_Roof_Eave_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Eave_01_End_Cap_01
+    Mesh Name: SM_Bld_Roof_Eave_01_End_Cap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Eave_02
+    Mesh Name: SM_Bld_Roof_Eave_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Eave_03
+    Mesh Name: SM_Bld_Roof_Eave_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Eave_04
+    Mesh Name: SM_Bld_Roof_Eave_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Eave_05
+    Mesh Name: SM_Bld_Roof_Eave_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Eave_06
+    Mesh Name: SM_Bld_Roof_Eave_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+
+Prefab Name: SM_Bld_Roof_Tower_Cap_01
+    Mesh Name: SM_Bld_Roof_Tower_Cap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+
+Prefab Name: SM_Bld_Roof_Trim_01
+    Mesh Name: SM_Bld_Roof_Trim_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Trim_02
+    Mesh Name: SM_Bld_Roof_Trim_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Trim_03
+    Mesh Name: SM_Bld_Roof_Trim_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Trim_04
+    Mesh Name: SM_Bld_Roof_Trim_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Trim_05
+    Mesh Name: SM_Bld_Roof_Trim_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Trim_06
+    Mesh Name: SM_Bld_Roof_Trim_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Truss_01
+    Mesh Name: SM_Bld_Roof_Truss_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Truss_02
+    Mesh Name: SM_Bld_Roof_Truss_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Roof_Window_01
+    Mesh Name: SM_Bld_Roof_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: GrungeWeatherboard_02 (Uses custom shader)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Horror_Roof_01 (Tile_01)
+    Mesh Name: SM_Bld_Roof_Window_01_Glass_02
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Roof_Window_01_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Roof_Window_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Roof_Window_02
+    Mesh Name: SM_Bld_Roof_Window_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Roof_01 (Tile_01)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+    Mesh Name: SM_Bld_Roof_Window_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Shutter_01
+    Mesh Name: SM_Bld_Shutter_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Skirting_01
+    Mesh Name: SM_Bld_Skirting_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Skirting_Corner_01
+    Mesh Name: SM_Bld_Skirting_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Spire_01
+    Mesh Name: SM_Bld_Spire_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Steps_01
+    Mesh Name: SM_Bld_Steps_01
+        Slot: Concrete_Mat_01 (Concrete_Tex)
+
+Prefab Name: SM_Bld_Trellis_01
+    Mesh Name: SM_Bld_Trellis_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Trellis_01_Leaves_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Trellis_01_Vine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Trellis_Half_01
+    Mesh Name: SM_Bld_Trellis_Half_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Trellis_Half_01_Leaves_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Trellis_Half_01_Vine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Basement_01
+    Mesh Name: SM_Bld_Wall_Basement_01
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+
+Prefab Name: SM_Bld_Wall_Basement_02
+    Mesh Name: SM_Bld_Wall_Basement_02
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Wood_Fancy_02 (Wood_Fancy_02)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Basement_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Bench_01
+    Mesh Name: SM_Bld_Wall_Bench_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Bench_Corner_01
+    Mesh Name: SM_Bld_Wall_Bench_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_Corner_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_Corner_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_Corner_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Bench_Corner_01_Door_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Cupboard_01
+    Mesh Name: SM_Bld_Wall_Cupboard_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Cupboard_Corner_01
+    Mesh Name: SM_Bld_Wall_Cupboard_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_Corner_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_Corner_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_Corner_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Cupboard_Corner_01_Door_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Door_01
+    Mesh Name: SM_Bld_Wall_Door_01
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+
+Prefab Name: SM_Bld_Wall_Door_Double_01
+    Mesh Name: SM_Bld_Wall_Door_Double_01
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+
+Prefab Name: SM_Bld_Wall_Door_Double_Large_01
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_01
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+
+Prefab Name: SM_Bld_Wall_Door_Double_Large_02
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_02_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Door_Double_Large_02_Glass_02
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Door_Large_01
+    Mesh Name: SM_Bld_Wall_Door_Large_01
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+    Mesh Name: SM_Bld_Wall_Door_Large_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Half_Angled_01
+    Mesh Name: SM_Bld_Wall_Half_Angled_01
+        Slot: Carpet_04 (Carpet_04)
+        Slot: Horror_Wall_04_Trimless (WallPaper_Tex_04_Trimless)
+
+Prefab Name: SM_Bld_Wall_Hole_01
+    Mesh Name: SM_Bld_Wall_Hole_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_08 (Wood_Drywall_02)
+
+Prefab Name: SM_Bld_Wall_Hole_01_Monster_01
+    Mesh Name: SM_Bld_Wall_Hole_01_Monster_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Hole_02
+    Mesh Name: SM_Bld_Wall_Hole_02
+        Slot: Horror_Wall_08 (Wood_Drywall_02)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Hole_02_Monster_01
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_01_Eye_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Hole_02_Monster_02
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_02_Eye_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_02_Eye_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Hole_02_Monster_02_Eye_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Hole_03
+    Mesh Name: SM_Bld_Wall_Hole_03
+        Slot: Horror_Wall_08 (Wood_Drywall_02)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Hole_04
+    Mesh Name: SM_Bld_Wall_Hole_04
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_08 (Wood_Drywall_02)
+
+Prefab Name: SM_Bld_Wall_Ornament_01
+    Mesh Name: SM_Bld_Wall_Ornament_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Ornament_02
+    Mesh Name: SM_Bld_Wall_Ornament_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Roof_Cap_01
+    Mesh Name: SM_Bld_Wall_Roof_Cap_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+
+Prefab Name: SM_Bld_Wall_Trim_01
+    Mesh Name: SM_Bld_Wall_Trim_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Trim_02
+    Mesh Name: SM_Bld_Wall_Trim_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Trim_03
+    Mesh Name: SM_Bld_Wall_Trim_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Trim_04
+    Mesh Name: SM_Bld_Wall_Trim_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Trim_05
+    Mesh Name: SM_Bld_Wall_Trim_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Trim_06
+    Mesh Name: SM_Bld_Wall_Trim_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Vent_01
+    Mesh Name: SM_Bld_Wall_Vent_01
+        Slot: Horror_Wall_04 (WallPaper_Tex_04)
+        Slot: Horror_Wall_05 (WallPaper_Tex_05)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Vent_01_Grating_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Bld_Wall_Window_01
+    Mesh Name: SM_Bld_Wall_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+    Mesh Name: SM_Bld_Wall_Window_01_Glass_04
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_01_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_01_Window_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_01_Glass_02
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_01_Window_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_01_Glass_03
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_02
+    Mesh Name: SM_Bld_Wall_Window_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+    Mesh Name: SM_Bld_Wall_Window_02_Glass_02
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_02_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_03
+    Mesh Name: SM_Bld_Wall_Window_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+    Mesh Name: SM_Bld_Wall_Window_03_Glass_04
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_03_Window_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_03_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_03_Window_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_03_Glass_02
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Bld_Wall_Window_03_Window_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_03_Glass_03
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_04
+    Mesh Name: SM_Bld_Wall_Window_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+    Mesh Name: SM_Bld_Wall_Window_04_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_05
+    Mesh Name: SM_Bld_Wall_Window_05
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_05_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_06
+    Mesh Name: SM_Bld_Wall_Window_06
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+    Mesh Name: SM_Bld_Wall_Window_06_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Bld_Wall_Window_07
+    Mesh Name: SM_Bld_Wall_Window_07
+        Slot: Horror_Wall_03 (WallPaper_Tex_03)
+        Slot: Wood_Fancy_01 (Wood_Fancy_01)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Bld_Wall_Window_07_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+-------------------
+Folder Name: Environment
+-------------------
+Prefab Name: SkyDome
+    Mesh Name: SkyDome
+        Slot: SimpleSky 1 (Uses custom shader)
+    Mesh Name: Moon 1
+        Slot: SimpleSky 1 (Uses custom shader)
+    Mesh Name: Stars
+        Slot: SimpleSky 1 (Uses custom shader)
+    Mesh Name: Sun 1
+        Slot: SimpleSky 1 (Uses custom shader)
+
+Prefab Name: SM_Env_Background_Card_01
+    Mesh Name: SM_Env_Background_Card_01
+        Slot: Trees_Background_01 (Tree_Background_02)
+
+Prefab Name: SM_Env_Background_Card_02
+    Mesh Name: SM_Env_Background_Card_02
+        Slot: Trees_Background_01 (Tree_Background_02)
+
+Prefab Name: SM_Env_Branch_01
+    Mesh Name: SM_Env_Branch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Branch_02
+    Mesh Name: SM_Env_Branch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Branch_03
+    Mesh Name: SM_Env_Branch_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Bushes_01
+    Mesh Name: SM_Env_Bushes_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Bushes_02
+    Mesh Name: SM_Env_Bushes_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Bushes_03
+    Mesh Name: SM_Env_Bushes_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Bushes_04
+    Mesh Name: SM_Env_Bushes_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Flat_01
+    Mesh Name: SM_Env_Dirt_Flat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Round_01
+    Mesh Name: SM_Env_Dirt_Round_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_01
+    Mesh Name: SM_Env_Dust_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_02
+    Mesh Name: SM_Env_Dust_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_03
+    Mesh Name: SM_Env_Dust_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_04
+    Mesh Name: SM_Env_Dust_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_05
+    Mesh Name: SM_Env_Dust_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Dust_06
+    Mesh Name: SM_Env_Dust_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Flower_01
+    Mesh Name: SM_Env_Flower_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Fountain_01
+    Mesh Name: SM_Env_Fountain_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Fountain_02
+    Mesh Name: SM_Env_Fountain_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Fountain_Water_01
+    Mesh Name: SM_Env_Fountain_Water_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_01
+    Mesh Name: SM_Env_Grass_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_02
+    Mesh Name: SM_Env_Grass_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_03
+    Mesh Name: SM_Env_Grass_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Flat_01
+    Mesh Name: SM_Env_Grass_Flat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Round_01
+    Mesh Name: SM_Env_Grass_Round_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Round_02
+    Mesh Name: SM_Env_Grass_Round_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Round_03
+    Mesh Name: SM_Env_Grass_Round_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Grass_Round_04
+    Mesh Name: SM_Env_Grass_Round_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Gutter_Leaves_01
+    Mesh Name: SM_Env_Gutter_Leaves_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Gutter_Leaves_02
+    Mesh Name: SM_Env_Gutter_Leaves_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_01
+    Mesh Name: SM_Env_Hedge_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_02
+    Mesh Name: SM_Env_Hedge_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_03
+    Mesh Name: SM_Env_Hedge_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Hedge_Corner_01
+    Mesh Name: SM_Env_Hedge_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_01
+    Mesh Name: SM_Env_Ivy_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_02
+    Mesh Name: SM_Env_Ivy_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_03
+    Mesh Name: SM_Env_Ivy_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_04
+    Mesh Name: SM_Env_Ivy_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_05
+    Mesh Name: SM_Env_Ivy_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Ivy_06
+    Mesh Name: SM_Env_Ivy_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_01
+    Mesh Name: SM_Env_Leaves_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_02
+    Mesh Name: SM_Env_Leaves_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_03
+    Mesh Name: SM_Env_Leaves_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_Pile_01
+    Mesh Name: SM_Env_Leaves_Pile_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_Pile_02
+    Mesh Name: SM_Env_Leaves_Pile_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_01
+    Mesh Name: SM_Env_Pebbles_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_02
+    Mesh Name: SM_Env_Pebbles_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_03
+    Mesh Name: SM_Env_Pebbles_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pine_01
+    Mesh Name: SM_Env_Pine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pine_02
+    Mesh Name: SM_Env_Pine_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Pine_03
+    Mesh Name: SM_Env_Pine_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Planter_Pot_01
+    Mesh Name: SM_Env_Planter_Pot_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_01
+    Mesh Name: SM_Env_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_02
+    Mesh Name: SM_Env_Plant_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Fern_01
+    Mesh Name: SM_Env_Plant_Fern_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Fern_02
+    Mesh Name: SM_Env_Plant_Fern_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Fern_03
+    Mesh Name: SM_Env_Plant_Fern_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Corner_01
+    Mesh Name: SM_Env_Road_Gravel_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Corner_02
+    Mesh Name: SM_Env_Road_Gravel_Corner_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Loop_01
+    Mesh Name: SM_Env_Road_Gravel_Loop_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Loop_Connect_01
+    Mesh Name: SM_Env_Road_Gravel_Loop_Connect_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Loop_Connect_02
+    Mesh Name: SM_Env_Road_Gravel_Loop_Connect_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Straight_01
+    Mesh Name: SM_Env_Road_Gravel_Straight_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Straight_02
+    Mesh Name: SM_Env_Road_Gravel_Straight_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_SpiderWeb_01
+    Mesh Name: SM_Env_SpiderWeb_01
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SpiderWeb_02
+    Mesh Name: SM_Env_SpiderWeb_02
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SpiderWeb_03
+    Mesh Name: SM_Env_SpiderWeb_03
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SpiderWeb_04
+    Mesh Name: SM_Env_SpiderWeb_04
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SpiderWeb_05
+    Mesh Name: SM_Env_SpiderWeb_05
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SpiderWeb_06
+    Mesh Name: SM_Env_SpiderWeb_06
+        Slot: SpiderWeb_Mat (Spiderweb_01)
+
+Prefab Name: SM_Env_SteppingStone_01
+    Mesh Name: SM_Env_SteppingStone_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_SteppingStone_02
+    Mesh Name: SM_Env_SteppingStone_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_01
+    Mesh Name: SM_Env_Tree_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_02
+    Mesh Name: SM_Env_Tree_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_03
+    Mesh Name: SM_Env_Tree_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_04
+    Mesh Name: SM_Env_Tree_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_05
+    Mesh Name: SM_Env_Tree_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Large_01
+    Mesh Name: SM_Env_Tree_Large_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Large_Twisted_01
+    Mesh Name: SM_Env_Tree_Large_Twisted_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Large_Twisted_02
+    Mesh Name: SM_Env_Tree_Large_Twisted_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Small_01
+    Mesh Name: SM_Env_Tree_Small_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Small_02
+    Mesh Name: SM_Env_Tree_Small_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_01
+    Mesh Name: SM_Env_Vines_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_02
+    Mesh Name: SM_Env_Vines_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_03
+    Mesh Name: SM_Env_Vines_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_04
+    Mesh Name: SM_Env_Vines_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_05
+    Mesh Name: SM_Env_Vines_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_Corner_01
+    Mesh Name: SM_Env_Vines_Corner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Vines_Corner_02
+    Mesh Name: SM_Env_Vines_Corner_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Env_Well_01
+    Mesh Name: SM_Env_Well_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_LightRay_Cube
+    Mesh Name: SM_LightRay_Cube
+
+-------------------
+Folder Name: FX
+-------------------
+Prefab Name: FX_Candle_Flame_01
+    Mesh Name: FX_Candle_Flame_01
+        Slot: FX_Additive_Bright (Uses custom shader)
+
+Prefab Name: FX_Dust_Small_01
+    Mesh Name: FX_Dust_Small_01
+        Slot: FX_Additive (Uses custom shader)
+
+Prefab Name: FX_Dust_Small_Soft_01
+    Mesh Name: FX_Dust_Small_Soft_01
+        Slot: FX_Additive_Circle_Soft_01 (Uses custom shader)
+
+Prefab Name: FX_Fog_Background_01
+    Mesh Name: FX_Fog_Background_01
+        Slot: FX_Additive (Uses custom shader)
+
+Prefab Name: FX_Fog_Flat_Large_01
+    Mesh Name: FX_Fog_Flat_Large_01
+        Slot: FX_Additive (Uses custom shader)
+
+Prefab Name: FX_Fog_Flat_Small_01
+    Mesh Name: FX_Fog_Flat_Small_01
+        Slot: FX_Additive (Uses custom shader)
+
+Prefab Name: FX_Footprints_01
+    Mesh Name: FX_Footprints_01
+        Slot: Transparent (Uses custom shader)
+    Mesh Name: Footprint_01
+        Slot: Decals_Footsteps_Bare_03 (Uses custom shader)
+    Mesh Name: Footprint_02
+        Slot: Decals_Footsteps_Bare_01 (Uses custom shader)
+    Mesh Name: Footprint_03
+        Slot: Decals_Footsteps_Bare_04 (Uses custom shader)
+    Mesh Name: Footprint_04
+        Slot: Decals_Footsteps_Bare_02 (Uses custom shader)
+    Mesh Name: BloodSpot_01
+        Slot: FX_Additive_Circle 1 (Uses custom shader)
+
+Prefab Name: FX_Leaves_01
+    Mesh Name: FX_Leaves_01
+        Slot: FX_Leaf_Mat_01 (FX_Leaf_01)
+
+Prefab Name: FX_Lightning_Background_01
+    Mesh Name: FX_Lightning_Background_01
+        Slot: Lightning_Mat (Uses custom shader)
+
+Prefab Name: FX_Lightray_Round_01
+    Mesh Name: SM_Lightray_Round_01
+        Slot: Lightray_Mat (Uses custom shader)
+
+Prefab Name: FX_Rain_01
+    Mesh Name: FX_Rain_01
+        Slot: FX_Additive_Circle (Uses custom shader)
+
+Prefab Name: FX_Sparks_01
+    Mesh Name: FX_Sparks_01
+        Slot: FX_Additive (Uses custom shader)
+
+Prefab Name: FX_SunBeam_Large_01
+    Mesh Name: FX_SunBeam_Large_01
+        Slot: FX_SunBeam_Mat (Uses custom shader)
+
+Prefab Name: FX_SunBeam_Small_01
+    Mesh Name: FX_SunBeam_Small_01
+        Slot: FX_SunBeam_Mat (Uses custom shader)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_ArmChair_01
+    Mesh Name: SM_Prop_ArmChair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_ArmChair_02
+    Mesh Name: SM_Prop_ArmChair_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_ArmChair_03
+    Mesh Name: SM_Prop_ArmChair_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_ArmChair_04
+    Mesh Name: SM_Prop_ArmChair_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_ArmChair_05
+    Mesh Name: SM_Prop_ArmChair_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bath_01
+    Mesh Name: SM_Prop_Bath_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Bath_Water_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bath_Taps_01
+    Mesh Name: SM_Prop_Bath_Taps_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Bath_Taps_01_Lever_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Bath_Taps_01_Lever_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bear_Mount_01
+    Mesh Name: SM_Prop_Bear_Mount_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Large_01
+    Mesh Name: SM_Prop_Bed_Large_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Large_02
+    Mesh Name: SM_Prop_Bed_Large_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_Small_01
+    Mesh Name: SM_Prop_Bed_Small_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bench_01
+    Mesh Name: SM_Prop_Bench_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bench_Seat_01
+    Mesh Name: SM_Prop_Bench_Seat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bench_Seat_02
+    Mesh Name: SM_Prop_Bench_Seat_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bench_Seat_03
+    Mesh Name: SM_Prop_Bench_Seat_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_BirdBath_01
+    Mesh Name: SM_Prop_BirdBath_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bird_Cage_01
+    Mesh Name: SM_Prop_Bird_Cage_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bookend_01
+    Mesh Name: SM_Prop_Bookend_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_01
+    Mesh Name: SM_Prop_Book_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_02
+    Mesh Name: SM_Prop_Book_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_03
+    Mesh Name: SM_Prop_Book_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_04
+    Mesh Name: SM_Prop_Book_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_01
+    Mesh Name: SM_Prop_Book_Line_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_02
+    Mesh Name: SM_Prop_Book_Line_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_03
+    Mesh Name: SM_Prop_Book_Line_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_Optimized_01
+    Mesh Name: SM_Prop_Book_Line_Optimized_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_Optimized_02
+    Mesh Name: SM_Prop_Book_Line_Optimized_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_Optimized_03
+    Mesh Name: SM_Prop_Book_Line_Optimized_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_Optimized_04
+    Mesh Name: SM_Prop_Book_Line_Optimized_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Line_Optimized_05
+    Mesh Name: SM_Prop_Book_Line_Optimized_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Open_01
+    Mesh Name: SM_Prop_Book_Open_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Open_02
+    Mesh Name: SM_Prop_Book_Open_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Pile_01
+    Mesh Name: SM_Prop_Book_Pile_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Pile_02
+    Mesh Name: SM_Prop_Book_Pile_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Pile_03
+    Mesh Name: SM_Prop_Book_Pile_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Pile_04
+    Mesh Name: SM_Prop_Book_Pile_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Book_Pile_05
+    Mesh Name: SM_Prop_Book_Pile_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowl_01
+    Mesh Name: SM_Prop_Bowl_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowl_02
+    Mesh Name: SM_Prop_Bowl_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowl_03
+    Mesh Name: SM_Prop_Bowl_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Pile_01
+    Mesh Name: SM_Prop_Box_Pile_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Pile_02
+    Mesh Name: SM_Prop_Box_Pile_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_01
+    Mesh Name: SM_Prop_Cabinet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_01_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_02
+    Mesh Name: SM_Prop_Cabinet_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Door_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Prop_Cabinet_02_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Door_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Prop_Cabinet_02_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_02_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+
+Prefab Name: SM_Prop_Cabinet_02_Insert_01
+    Mesh Name: SM_Prop_Cabinet_02_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_Wine_01
+    Mesh Name: SM_Prop_Cabinet_Wine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Door_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_Wine_01_Insert_01
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabinet_Wine_01_Insert_02
+    Mesh Name: SM_Prop_Cabinet_Wine_01_Insert_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cage_01
+    Mesh Name: SM_Prop_Cage_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cage_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Camera_01
+    Mesh Name: SM_Prop_Camera_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Camera_01_Screen_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Camera_02
+    Mesh Name: SM_Prop_Camera_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Camera_Gimbal_01
+    Mesh Name: SM_Prop_Camera_Gimbal_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Camera_Gimbal_01_1
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Camera_Gimbal_01_2
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Camera_Gimbal_01_3
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Candle_02
+    Mesh Name: SM_Prop_Candle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Candle_Stand_01
+    Mesh Name: SM_Prop_Candle_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Candle_Stand_02
+    Mesh Name: SM_Prop_Candle_Stand_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Candle_Stand_03
+    Mesh Name: SM_Prop_Candle_Stand_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_01
+    Mesh Name: SM_Prop_Can_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_Stack_01
+    Mesh Name: SM_Prop_Can_Stack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cardboard_Box_01
+    Mesh Name: SM_Prop_Cardboard_Box_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cardboard_Box_02
+    Mesh Name: SM_Prop_Cardboard_Box_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cardboard_Box_03
+    Mesh Name: SM_Prop_Cardboard_Box_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cat_Stuffed_01
+    Mesh Name: SM_Prop_Cat_Stuffed_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cat_Stuffed_02
+    Mesh Name: SM_Prop_Cat_Stuffed_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cat_Stuffed_Badly_01
+    Mesh Name: SM_Prop_Cat_Stuffed_Badly_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ceiling_Fan_01
+    Mesh Name: SM_Prop_Ceiling_Fan_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Ceiling_Fan_01_Blades_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ceiling_Fan_02
+    Mesh Name: SM_Prop_Ceiling_Fan_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Ceiling_Fan_01_Blades_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ceramic_Vase_01
+    Mesh Name: SM_Prop_Ceramic_Vase_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_01
+    Mesh Name: SM_Prop_Chair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_02
+    Mesh Name: SM_Prop_Chair_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_03
+    Mesh Name: SM_Prop_Chair_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_04
+    Mesh Name: SM_Prop_Chair_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Chest_01
+    Mesh Name: SM_Prop_Chest_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Chest_01_Handle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Chest_01_Handle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Chest_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Chest_01_Latch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Clock_01
+    Mesh Name: SM_Prop_Clock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_01_Glass_01
+        Slot: BrokenGlass_01 (Glass_01)
+    Mesh Name: SM_Prop_Clock_01_Hand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_01_Hand_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_01_Pendulum_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Clock_02
+    Mesh Name: SM_Prop_Clock_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_02_Glass_01
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Prop_Clock_02_Hand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_02_Hand_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Clock_02_Pendulum_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Coat_Stand_01
+    Mesh Name: SM_Prop_Coat_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Coat_Stand_01_Insert_01
+    Mesh Name: SM_Prop_Coat_Stand_01_Insert_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Coffin_01
+    Mesh Name: SM_Prop_Coffin_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Coffin_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Coffin_02
+    Mesh Name: SM_Prop_Coffin_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Coffin_02_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Cot_01
+    Mesh Name: SM_Prop_Cot_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cot_Gate_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cot_Mobile_Arm_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Cot_Mobile_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_01
+    Mesh Name: SM_Prop_Couch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Couch_02
+    Mesh Name: SM_Prop_Couch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Crystal_Ball_01
+    Mesh Name: SM_Prop_Crystal_Ball_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Crystal_Ball_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Curtain_01_Closed_01
+    Mesh Name: SM_Prop_Curtain_01_Closed_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_01_Cracked_01
+    Mesh Name: SM_Prop_Curtain_01_Cracked_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_01_Open_01
+    Mesh Name: SM_Prop_Curtain_01_Open_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_02_Closed_01
+    Mesh Name: SM_Prop_Curtain_02_Closed_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_02_Cracked_01
+    Mesh Name: SM_Prop_Curtain_02_Cracked_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_02_Open_01
+    Mesh Name: SM_Prop_Curtain_02_Open_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Curtain_03_Cracked_01
+    Mesh Name: SM_Prop_Curtain_03_Cracked_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Curtain_03_Cracked_01_Curtains_01
+        Slot: Curtains_01 (Curtains_01)
+
+Prefab Name: SM_Prop_Decal_Floor_Large
+    Mesh Name: SM_Prop_Decal_Floor_Large
+        Slot: Stain_Blood_01 (Stain_Blood_01)
+
+Prefab Name: SM_Prop_Decal_Large
+    Mesh Name: SM_Prop_Decal_Large
+        Slot: Decal_Rip_Large_01 (Decals_Rip_Large_01)
+
+Prefab Name: SM_Prop_Desk_01
+    Mesh Name: SM_Prop_Desk_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_01_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_01_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_01_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Desk_02
+    Mesh Name: SM_Prop_Desk_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_07
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_08
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_09
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Drawer_10
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Desk_02_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Display_Plate_01
+    Mesh Name: SM_Prop_Display_Plate_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Display_Plate_02
+    Mesh Name: SM_Prop_Display_Plate_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Display_Stand_01
+    Mesh Name: SM_Prop_Display_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doily_01
+    Mesh Name: SM_Prop_Doily_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doily_02
+    Mesh Name: SM_Prop_Doily_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doily_03
+    Mesh Name: SM_Prop_Doily_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doily_04
+    Mesh Name: SM_Prop_Doily_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doorbell_01
+    Mesh Name: SM_Prop_Doorbell_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Doorbell_01_Button_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Doorbell_02
+    Mesh Name: SM_Prop_Doorbell_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Doorbell_02_Button_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Knocker_01
+    Mesh Name: SM_Prop_Door_Knocker_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Door_Knocker_01_Knocker_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Knocker_02
+    Mesh Name: SM_Prop_Door_Knocker_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Door_Knocker_02_Knocker_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Mat_01
+    Mesh Name: SM_Prop_Door_Mat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Mat_02
+    Mesh Name: SM_Prop_Door_Mat_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Mat_03
+    Mesh Name: SM_Prop_Door_Mat_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Door_Mat_04
+    Mesh Name: SM_Prop_Door_Mat_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_01
+    Mesh Name: SM_Prop_Dresser_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_03_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_02
+    Mesh Name: SM_Prop_Dresser_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_07
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_02_Drawer_08
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_03
+    Mesh Name: SM_Prop_Dresser_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_01_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Dresser_Mirror_01
+    Mesh Name: SM_Prop_Dresser_Mirror_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_Mirror_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Dresser_Mirror_01_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Bible_01
+    Mesh Name: SM_Prop_Exorcist_Bible_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Bottle_01
+    Mesh Name: SM_Prop_Exorcist_Bottle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Exorcist_Bottle_02
+    Mesh Name: SM_Prop_Exorcist_Bottle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Exorcist_Bottle_03
+    Mesh Name: SM_Prop_Exorcist_Bottle_03
+        Slot: Glass (No Albedo Texture)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Bottle_04
+    Mesh Name: SM_Prop_Exorcist_Bottle_04
+        Slot: Glass (No Albedo Texture)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Bottle_05
+    Mesh Name: SM_Prop_Exorcist_Bottle_05
+        Slot: Glass (No Albedo Texture)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Case_01
+    Mesh Name: SM_Prop_Exorcist_Case_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Exorcist_Case_01_Items_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Exorcist_Case_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Exorcist_Case_01_Items_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Cross_01
+    Mesh Name: SM_Prop_Exorcist_Cross_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Cross_02
+    Mesh Name: SM_Prop_Exorcist_Cross_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Cross_03
+    Mesh Name: SM_Prop_Exorcist_Cross_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Mallet_01
+    Mesh Name: SM_Prop_Exorcist_Mallet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Exorcist_Stake_01
+    Mesh Name: SM_Prop_Exorcist_Stake_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Floodlight_01
+    Mesh Name: SM_Prop_Floodlight_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Floodlight_01_Top_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Floodlight_01_Light_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Floodlight_01_Light_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Fork_01
+    Mesh Name: SM_Prop_Fork_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Fork_02
+    Mesh Name: SM_Prop_Fork_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Fridge_01
+    Mesh Name: SM_Prop_Fridge_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Fridge_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Fridge_01_Racks_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Fridge_01_Racks_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Furnace_01
+    Mesh Name: SM_Prop_Furnace_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Furnace_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Furnace_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Furnace_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Furnace_01_Pipes_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ghost_Meter_01
+    Mesh Name: SM_Prop_Ghost_Meter_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Ghost_Meter_01_Needle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Goblet_01
+    Mesh Name: SM_Prop_Goblet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Gramophone_01
+    Mesh Name: SM_Prop_Gramophone_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Gramophone_01_Horn_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Gramophone_01_Record_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Guts_Bucket_01
+    Mesh Name: SM_Prop_Guts_Bucket_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Guts_Bucket_02
+    Mesh Name: SM_Prop_Guts_Bucket_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Hand_Towel_01
+    Mesh Name: SM_Prop_Hand_Towel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Hook_01
+    Mesh Name: SM_Prop_Hook_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Hook_02
+    Mesh Name: SM_Prop_Hook_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Jack_In_The_Box_01
+    Mesh Name: SM_Prop_Jack_In_The_Box_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_The_Box_01_Crank_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_The_Box_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_The_Box_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_The_Box_01_Jack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kettle_01
+    Mesh Name: SM_Prop_Kettle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Keyhole_01
+    Mesh Name: SM_Prop_Keyhole_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Keyhole_02
+    Mesh Name: SM_Prop_Keyhole_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Keyhole_03
+    Mesh Name: SM_Prop_Keyhole_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Key_01
+    Mesh Name: SM_Prop_Key_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Key_02
+    Mesh Name: SM_Prop_Key_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Key_03
+    Mesh Name: SM_Prop_Key_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Key_04
+    Mesh Name: SM_Prop_Key_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Bench_01
+    Mesh Name: SM_Prop_Kitchen_Bench_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Bench_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Bench_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Kitchen_Bench_01_Door_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_01
+    Mesh Name: SM_Prop_Kitchen_Pan_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_02
+    Mesh Name: SM_Prop_Kitchen_Pan_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_03
+    Mesh Name: SM_Prop_Kitchen_Pan_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_Rack_01
+    Mesh Name: SM_Prop_Kitchen_Pan_Rack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_Rack_02
+    Mesh Name: SM_Prop_Kitchen_Pan_Rack_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Kitchen_Pan_Rack_Chain_01
+    Mesh Name: SM_Prop_Kitchen_Pan_Rack_Chain_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Knife_01
+    Mesh Name: SM_Prop_Knife_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Knife_02
+    Mesh Name: SM_Prop_Knife_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ladder_01
+    Mesh Name: SM_Prop_Ladder_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ladder_02
+    Mesh Name: SM_Prop_Ladder_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ladder_03
+    Mesh Name: SM_Prop_Ladder_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_01
+    Mesh Name: SM_Prop_Lamp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_02
+    Mesh Name: SM_Prop_Lamp_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lamp_02_Glass_01
+        Slot: Glass_Diffused_Lit (No Albedo Texture)
+
+Prefab Name: SM_Prop_Lamp_03
+    Mesh Name: SM_Prop_Lamp_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lamp_03_Glass_01
+        Slot: Glass_Diffused_Lit (No Albedo Texture)
+
+Prefab Name: SM_Prop_Lamp_04
+    Mesh Name: SM_Prop_Lamp_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Bulb_01
+    Mesh Name: SM_Prop_Light_Bulb_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Bulb_01_Cable_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Ceiling_01
+    Mesh Name: SM_Prop_Light_Ceiling_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Chandelier_01
+    Mesh Name: SM_Prop_Light_Chandelier_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Chandelier_01_Main_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Chandelier_02
+    Mesh Name: SM_Prop_Light_Chandelier_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Chandelier_03
+    Mesh Name: SM_Prop_Light_Chandelier_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Switch_01
+    Mesh Name: SM_Prop_Light_Switch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Switch_01_Switch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Switch_02
+    Mesh Name: SM_Prop_Light_Switch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Switch_02_Switch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Switch_02_Switch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Wall_01
+    Mesh Name: SM_Prop_Light_Wall_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_Wall_02
+    Mesh Name: SM_Prop_Light_Wall_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Lockbox_01
+    Mesh Name: SM_Prop_Lockbox_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_01_Handle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_01_Handle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_01_Latch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Lockbox_02
+    Mesh Name: SM_Prop_Lockbox_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_02_Handle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_02_Handle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_02_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mangifying_Glass_01
+    Mesh Name: SM_Prop_Mangifying_Glass_01
+        Slot: Glass (No Albedo Texture)
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Mask_01
+    Mesh Name: SM_Prop_Mask_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mask_02
+    Mesh Name: SM_Prop_Mask_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mask_03
+    Mesh Name: SM_Prop_Mask_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mask_Count_01
+    Mesh Name: SM_Prop_Mask_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_01
+    Mesh Name: SM_Prop_Mirror_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_02
+    Mesh Name: SM_Prop_Mirror_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_03
+    Mesh Name: SM_Prop_Mirror_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_04
+    Mesh Name: SM_Prop_Mirror_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Mirror_04_Mirror_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_04_Broken_01
+    Mesh Name: SM_Prop_Mirror_04_Broken_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Mirror_04_Broken_01_Mirror_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Mirror_05
+    Mesh Name: SM_Prop_Mirror_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Music_Box_01
+    Mesh Name: SM_Prop_Music_Box_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Music_Box_01_Handle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Music_Box_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Music_Box_01_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Music_Box_01_Ballerina_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Noose_01
+    Mesh Name: SM_Prop_Noose_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ornamental_Head_01
+    Mesh Name: SM_Prop_Ornamental_Head_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ottoman_01
+    Mesh Name: SM_Prop_Ottoman_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Ottoman_02
+    Mesh Name: SM_Prop_Ottoman_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Padlock_01
+    Mesh Name: SM_Prop_Padlock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Lockbox_01_Lock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_01
+    Mesh Name: SM_Prop_Page_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_02
+    Mesh Name: SM_Prop_Page_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_03
+    Mesh Name: SM_Prop_Page_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_04
+    Mesh Name: SM_Prop_Page_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_05
+    Mesh Name: SM_Prop_Page_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_06
+    Mesh Name: SM_Prop_Page_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_07
+    Mesh Name: SM_Prop_Page_07
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Page_08
+    Mesh Name: SM_Prop_Page_08
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_01
+    Mesh Name: SM_Prop_PaintingFrame_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_02
+    Mesh Name: SM_Prop_PaintingFrame_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_03
+    Mesh Name: SM_Prop_PaintingFrame_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_04
+    Mesh Name: SM_Prop_PaintingFrame_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_05
+    Mesh Name: SM_Prop_PaintingFrame_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_PaintingFrame_06
+    Mesh Name: SM_Prop_PaintingFrame_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Painting_01
+    Mesh Name: SM_Prop_Painting_01
+        Slot: Mat_Painting_Portrait_01 (Painting_Portrait_01)
+
+Prefab Name: SM_Prop_Painting_02
+    Mesh Name: SM_Prop_Painting_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Portrait_03 (Painting_Portrait_03)
+
+Prefab Name: SM_Prop_Painting_03
+    Mesh Name: SM_Prop_Painting_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Portrait_06 (Painting_Portrait_06)
+
+Prefab Name: SM_Prop_Painting_04
+    Mesh Name: SM_Prop_Painting_04
+        Slot: Mat_Painting_Portrait_02 (Painting_Portrait_02)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Painting_05
+    Mesh Name: SM_Prop_Painting_05
+        Slot: Mat_Painting_Portrait_01 (Painting_Portrait_01)
+
+Prefab Name: SM_Prop_Papers_01
+    Mesh Name: SM_Prop_Papers_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_02
+    Mesh Name: SM_Prop_Papers_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_03
+    Mesh Name: SM_Prop_Papers_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Paper_Stack_01
+    Mesh Name: SM_Prop_Paper_Stack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_ParkBench_01
+    Mesh Name: SM_Prop_ParkBench_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Phone_Rotary_01
+    Mesh Name: SM_Prop_Phone_Rotary_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Phone_Rotary_01_HandPiece_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Piano_01
+    Mesh Name: SM_Prop_Piano_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Lid_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Music_Rack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Support_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Wheels_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Wheels_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Piano_01_Wheels_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Picture_Frame_01
+    Mesh Name: SM_Prop_Picture_Frame_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Landscape_01 (Painting_Landscape_01)
+
+Prefab Name: SM_Prop_Picture_Frame_02
+    Mesh Name: SM_Prop_Picture_Frame_02
+        Slot: Mat_Painting_Portrait_07 (Painting_Portrait_07)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Picture_Frame_03
+    Mesh Name: SM_Prop_Picture_Frame_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Portrait_03 (Painting_Portrait_03)
+
+Prefab Name: SM_Prop_Picture_Frame_04
+    Mesh Name: SM_Prop_Picture_Frame_04
+        Slot: Mat_Painting_Portrait_08 (Painting_Portrait_08)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Picture_Frame_05
+    Mesh Name: SM_Prop_Picture_Frame_05
+        Slot: Mat_Painting_Portrait_04 (Painting_Portrait_04)
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Picture_Frame_06
+    Mesh Name: SM_Prop_Picture_Frame_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Portrait_05 (Painting_Portrait_05)
+
+Prefab Name: SM_Prop_Pitchfork_01
+    Mesh Name: SM_Prop_Pitchfork_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_01
+    Mesh Name: SM_Prop_Planter_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_01_Plant_01
+    Mesh Name: SM_Prop_Planter_01_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_02
+    Mesh Name: SM_Prop_Planter_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_02_Plant_01
+    Mesh Name: SM_Prop_Planter_02_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_03
+    Mesh Name: SM_Prop_Planter_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_03_Plant_01
+    Mesh Name: SM_Prop_Planter_03_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Planter_Pot_02
+    Mesh Name: SM_Prop_Planter_Pot_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_01
+    Mesh Name: SM_Prop_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Pot_01
+    Mesh Name: SM_Prop_Plant_Pot_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Pot_02
+    Mesh Name: SM_Prop_Plant_Pot_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Stand_01
+    Mesh Name: SM_Prop_Plant_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Stand_01_Plant_01
+    Mesh Name: SM_Prop_Plant_Stand_01_Plant_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Stand_01_Plant_02
+    Mesh Name: SM_Prop_Plant_Stand_01_Plant_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Stand_01_Plant_03
+    Mesh Name: SM_Prop_Plant_Stand_01_Plant_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_01
+    Mesh Name: SM_Prop_Plate_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_02
+    Mesh Name: SM_Prop_Plate_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_03
+    Mesh Name: SM_Prop_Plate_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Plate_Set_01
+    Mesh Name: SM_Prop_Plate_Set_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Power_Box_01
+    Mesh Name: SM_Prop_Power_Box_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Power_Box_02
+    Mesh Name: SM_Prop_Power_Box_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Power_Box_02_Switch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Power_Box_02_Switch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Power_Box_03
+    Mesh Name: SM_Prop_Power_Box_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Power_Box_03_Switch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Power_Box_03_Switch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Pram_01
+    Mesh Name: SM_Prop_Pram_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Pram_01_Cover_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Pram_01_Wheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Pram_01_Wheel_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Pram_01_Wheel_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Pram_01_Wheel_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Radiator_01
+    Mesh Name: SM_Prop_Radiator_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Radio_01
+    Mesh Name: SM_Prop_Radio_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rocking_Chair_01
+    Mesh Name: SM_Prop_Rocking_Chair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rocking_Chair_02
+    Mesh Name: SM_Prop_Rocking_Chair_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rocking_Horse_01
+    Mesh Name: SM_Prop_Rocking_Horse_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_01
+    Mesh Name: SM_Prop_Rug_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_02
+    Mesh Name: SM_Prop_Rug_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_03
+    Mesh Name: SM_Prop_Rug_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_04
+    Mesh Name: SM_Prop_Rug_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_05
+    Mesh Name: SM_Prop_Rug_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_06
+    Mesh Name: SM_Prop_Rug_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_Tileable_01
+    Mesh Name: SM_Prop_Rug_Tileable_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_Tileable_End_01
+    Mesh Name: SM_Prop_Rug_Tileable_End_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Safe_01
+    Mesh Name: SM_Prop_Safe_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Safe_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Safe_01_Door_01_Handle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Science_Bottle_01
+    Mesh Name: SM_Prop_Science_Bottle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Science_Bottle_02
+    Mesh Name: SM_Prop_Science_Bottle_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Science_Burner_01
+    Mesh Name: SM_Prop_Science_Burner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Scythe_01
+    Mesh Name: SM_Prop_Scythe_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Serving_Trolley_01
+    Mesh Name: SM_Prop_Serving_Trolley_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_01_Wheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_01_Wheel_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_01_Wheel_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_01_Wheel_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Serving_Trolley_02
+    Mesh Name: SM_Prop_Serving_Trolley_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_02_Wheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_02_Wheel_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_02_Wheel_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Serving_Trolley_02_Wheel_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sewing_Machine_01
+    Mesh Name: SM_Prop_Sewing_Machine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sewing_Machine_Table_01
+    Mesh Name: SM_Prop_Sewing_Machine_Table_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sewing_Machine_Table_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sewing_Machine_Table_01_Drawer_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sewing_Machine_Table_01_Drawer_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sewing_Machine_Table_01_Drawer_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shackle_01
+    Mesh Name: SM_Prop_Shackle_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_01
+    Mesh Name: SM_Prop_Sheet_Cover_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_02
+    Mesh Name: SM_Prop_Sheet_Cover_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_03
+    Mesh Name: SM_Prop_Sheet_Cover_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_04
+    Mesh Name: SM_Prop_Sheet_Cover_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_05
+    Mesh Name: SM_Prop_Sheet_Cover_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_06
+    Mesh Name: SM_Prop_Sheet_Cover_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_07
+    Mesh Name: SM_Prop_Sheet_Cover_07
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_08
+    Mesh Name: SM_Prop_Sheet_Cover_08
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Cover_09
+    Mesh Name: SM_Prop_Sheet_Cover_09
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Rope_01
+    Mesh Name: SM_Prop_Sheet_Rope_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sheet_Rope_02
+    Mesh Name: SM_Prop_Sheet_Rope_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shelf_01
+    Mesh Name: SM_Prop_Shelf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shelf_02
+    Mesh Name: SM_Prop_Shelf_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shelf_03
+    Mesh Name: SM_Prop_Shelf_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_03_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shelf_03_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_01
+    Mesh Name: SM_Prop_Shower_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_01_Head_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_01_Tap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_01_Tap_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_01_Wallmount_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_02
+    Mesh Name: SM_Prop_Shower_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_02_Head_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_02_Lever_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_Curtain_Closed_01
+    Mesh Name: SM_Prop_Shower_Curtain_Closed_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_Curtain_Closed_01_Mount_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Shower_Curtain_Open_01
+    Mesh Name: SM_Prop_Shower_Curtain_Open_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Shower_Curtain_Open_01_Mount_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Side_Table_01
+    Mesh Name: SM_Prop_Side_Table_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Silhouette_01
+    Mesh Name: SM_Prop_Silhouette_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Silhouette_02
+    Mesh Name: SM_Prop_Silhouette_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sink_01
+    Mesh Name: SM_Prop_Sink_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sink_01_Tap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sink_01_Tap_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Sink_02
+    Mesh Name: SM_Prop_Sink_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sink_02_Pipe_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sink_02_Tap_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Sink_02_Tap_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Specimen_Jar_01
+    Mesh Name: SM_Prop_Specimen_Jar_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Glass (No Albedo Texture)
+    Mesh Name: SM_Prop_Specimen_Jar_01_Worm_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Specimen_Jar_02
+    Mesh Name: SM_Prop_Specimen_Jar_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Specimen_Jar_02_Glass
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Spinning_Wheel_01
+    Mesh Name: SM_Prop_Spinning_Wheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Spinning_Wheel_01_BigWheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Spinning_Wheel_01_SmallWheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Spoon_01
+    Mesh Name: SM_Prop_Spoon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Spoon_02
+    Mesh Name: SM_Prop_Spoon_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Stool_01
+    Mesh Name: SM_Prop_Stool_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Stool_02
+    Mesh Name: SM_Prop_Stool_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Stove_01
+    Mesh Name: SM_Prop_Stove_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_01_Door_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_01_Drawer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_01_Flue
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Stove_02
+    Mesh Name: SM_Prop_Stove_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Stove_02_Flue_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Suitcase_01
+    Mesh Name: SM_Prop_Suitcase_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Suitcase_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Suitcase_02
+    Mesh Name: SM_Prop_Suitcase_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Suitcase_02_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_01
+    Mesh Name: SM_Prop_Table_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_01_Cloth_01
+    Mesh Name: SM_Prop_Table_01_Cloth_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_02
+    Mesh Name: SM_Prop_Table_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_02_Cloth_01
+    Mesh Name: SM_Prop_Table_02_Cloth_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_03
+    Mesh Name: SM_Prop_Table_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_04
+    Mesh Name: SM_Prop_Table_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_Side_01
+    Mesh Name: SM_Prop_Table_Side_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_Side_02
+    Mesh Name: SM_Prop_Table_Side_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_Side_03
+    Mesh Name: SM_Prop_Table_Side_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Television_01
+    Mesh Name: SM_Prop_Television_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+        Slot: Mat_Painting_Portrait_09 (Painting_Portrait_09)
+
+Prefab Name: SM_Prop_Toaster_01
+    Mesh Name: SM_Prop_Toaster_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Toaster_01_Lever_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Toilet_01
+    Mesh Name: SM_Prop_Toilet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Toilet_03_Flush
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Toilet_Roll_01
+    Mesh Name: SM_Prop_Toilet_Roll_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Toilet_Roll_02
+    Mesh Name: SM_Prop_Toilet_Roll_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Torch_01
+    Mesh Name: SM_Prop_Torch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Torch_02
+    Mesh Name: SM_Prop_Torch_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Towel_01
+    Mesh Name: SM_Prop_Towel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Tripod_01
+    Mesh Name: SM_Prop_Tripod_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Tripod_01_Head_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Umbrella_Stand_01
+    Mesh Name: SM_Prop_Umbrella_Stand_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Urn_01
+    Mesh Name: SM_Prop_Urn_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Urn_01_Lid_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Vent_01
+    Mesh Name: SM_Prop_Vent_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Vent_02
+    Mesh Name: SM_Prop_Vent_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_01
+    Mesh Name: SM_Prop_Wardrobe_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_1
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_2
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_3
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_01_Door_4
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Wardrobe_02
+    Mesh Name: SM_Prop_Wardrobe_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wardrobe_02_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Washbasin_01
+    Mesh Name: SM_Prop_Washbasin_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Washing_Machine_01
+    Mesh Name: SM_Prop_Washing_Machine_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Washing_Machine_01_Door_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Washing_Machine_01_Glass_01
+        Slot: Glass (No Albedo Texture)
+
+Prefab Name: SM_Prop_Weather_Vane_01
+    Mesh Name: SM_Prop_Weather_Vane_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Weather_Vane_01_Top_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Wood_Chipper_01
+    Mesh Name: SM_Prop_Wood_Chipper_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wood_Chipper_01_Blades_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wood_Chipper_01_Wheel_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Prop_Wood_Chipper_01_Wheel_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Wood_Stack_01
+    Mesh Name: SM_Prop_Wood_Stack_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Prop_Wood_Stack_02
+    Mesh Name: SM_Prop_Wood_Stack_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Veh_Trike_01
+    Mesh Name: SM_Veh_Trike_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Handlebars
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Wheel_f
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Pedal_l
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Pedal_r
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Wheel_rl
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Veh_Trike_01_Wheel_rr
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+-------------------
+Folder Name: Weapons
+-------------------
+Prefab Name: SM_Wep_Hacksaw_01
+    Mesh Name: SM_Wep_Hacksaw_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Hatchet_01
+    Mesh Name: SM_Wep_Hatchet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Ice_Pick_01
+    Mesh Name: SM_Wep_Ice_Pick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Knife_01
+    Mesh Name: SM_Wep_Knife_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Knife_Butcher_01
+    Mesh Name: SM_Wep_Knife_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Razor_01
+    Mesh Name: SM_Wep_Razor_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Razor_01_Blade_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Revolver_01
+    Mesh Name: SM_Wep_Revolver_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_CylinderFlip_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Cylinder_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_02
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_03
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_04
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_05
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Bullet_06
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Hammer_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_Trigger_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Screw_Driver_01
+    Mesh Name: SM_Wep_Screw_Driver_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Wep_Spanner_01
+    Mesh Name: SM_Wep_Spanner_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+-------------------
+Folder Name: Attachments
+-------------------
+Prefab Name: SM_Chr_Count_Cape_01
+    Mesh Name: SM_Chr_Count_Cape_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Count_Hair_01
+    Mesh Name: SM_Chr_Count_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Count_Hat_01
+    Mesh Name: SM_Chr_Count_Hat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Demon_Tail_01
+    Mesh Name: SM_Chr_Demon_Tail_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Jock_Beard_01
+    Mesh Name: SM_Chr_Jock_Beard_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Jock_Hair_01
+    Mesh Name: SM_Chr_Jock_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Witch_Antlers_01
+    Mesh Name: SM_Chr_Witch_Antlers_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Witch_Hair_01
+    Mesh Name: SM_Chr_Witch_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Witch_Hat_01
+    Mesh Name: SM_Chr_Witch_Hat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Witch_Nose_01
+    Mesh Name: SM_Chr_Witch_Nose_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: SM_Chr_Butcher_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Chick_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Count_01
+    Mesh Name: SM_Chr_Count_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_Hat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_Cape_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Demon_01
+    Mesh Name: SM_Chr_Demon_Tail_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Ghoul_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Gimp_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Jock_01
+    Mesh Name: SM_Chr_Jock_Beard_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Werewolf_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Witch_01
+    Mesh Name: SM_Chr_Witch_Hair_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_Antlers_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_Hat_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_Nose_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+
+Prefab Name: SM_Chr_Yokai_01
+    Mesh Name: SM_Chr_Butcher_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Chick_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Count_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Demon_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Ghoul_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Gimp_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Jock_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Werewolf_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Witch_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+    Mesh Name: SM_Chr_Yokai_01
+        Slot: PolygonHorrorMansion_Mat_01_A (PolygonHorror_Texture_01_A)
+

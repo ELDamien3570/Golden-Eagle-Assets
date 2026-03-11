@@ -1,0 +1,2779 @@
+-------------------
+Folder Name: Building
+-------------------
+Prefab Name: SM_Bld_Fence_01
+    Mesh Name: SM_Bld_Fence_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Gate_01
+    Mesh Name: SM_Bld_Fence_Gate_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Fence_Post_01
+    Mesh Name: SM_Bld_Fence_Post_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Rail_01
+    Mesh Name: SM_Bld_Rail_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Skirt_01
+    Mesh Name: SM_Bld_Skirt_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Stairs_Small_01
+    Mesh Name: SM_Bld_Stairs_Small_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Stairs_Small_Rail_01
+    Mesh Name: SM_Bld_Stairs_Small_Rail_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Support_01
+    Mesh Name: SM_Bld_Support_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Support_Block_01
+    Mesh Name: SM_Bld_Support_Block_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Track_Corner_01
+    Mesh Name: SM_Bld_Track_Corner_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Track_Straight_01
+    Mesh Name: SM_Bld_Track_Straight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Track_Straight_Half_01
+    Mesh Name: SM_Bld_Track_Straight_Half_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Trim_01
+    Mesh Name: SM_Bld_Trim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Bld_Water_Tower_01
+    Mesh Name: SM_Bld_Water_Tower_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: SM_Chr_Animatronic_01
+    Mesh Name: SM_Chr_Attach_Animatronic_Head_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Carny_01
+    Mesh Name: SM_Chr_Attach_Carny_Eyepatch_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Carny_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Carny_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Carny_Mic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Carny_Mustache_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Clown_Female_01
+    Mesh Name: SM_Chr_Attach_Clown_Female_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Clown_Female_Mask_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Clown_Male_01
+    Mesh Name: SM_Chr_Attach_Clown_Male_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Clown_Male_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_FortuneTeller_01
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_RingLeader_01
+    Mesh Name: SM_Chr_Attach_RingLeader_Beard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Earrings_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Slim_01
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Strongman_01
+    Mesh Name: SM_Chr_Attach_Hat_Strongman_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Strongman_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Visitor_Female_01
+    Mesh Name: SM_Chr_Attach_Visitor_female_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Visitor_Male_01
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Beard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Animatronic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_FortuneTeller_Headscarf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Attach_RingLeader_Coattails_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Carny_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Clown_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_FortuneTeller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_RingLeader_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Slim_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_female_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Chr_Visitor_Male_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: Environment
+-------------------
+Prefab Name: SM_Env_Background_Card_01
+    Mesh Name: SM_Env_Background_Card_01
+        Slot: Trees_Background_01 (Tree_Background_01)
+
+Prefab Name: SM_Env_Background_Card_02
+    Mesh Name: SM_Env_Background_Card_02
+        Slot: Trees_Background_01 (Tree_Background_01)
+
+Prefab Name: SM_Env_Branch_01
+    Mesh Name: SM_Env_Branch_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Branch_02
+    Mesh Name: SM_Env_Branch_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_CloudRing_01
+    Mesh Name: SM_Env_CloudRing_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Dirt_01
+    Mesh Name: SM_Env_Ground_Dirt_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Dirt_Flat_01
+    Mesh Name: SM_Env_Ground_Dirt_Flat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Dirt_Round_01
+    Mesh Name: SM_Env_Ground_Dirt_Round_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Dirt_Small_01
+    Mesh Name: SM_Env_Ground_Dirt_Small_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Grass_01
+    Mesh Name: SM_Env_Ground_Grass_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Grass_Flat_01
+    Mesh Name: SM_Env_Ground_Grass_Flat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Grass_Round_01
+    Mesh Name: SM_Env_Ground_Grass_Round_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Grass_Small_01
+    Mesh Name: SM_Env_Ground_Grass_Small_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Hill_01
+    Mesh Name: SM_Env_Ground_Hill_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Hill_02
+    Mesh Name: SM_Env_Ground_Hill_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Ground_Hill_03
+    Mesh Name: SM_Env_Ground_Hill_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_01
+    Mesh Name: SM_Env_Leaves_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_02
+    Mesh Name: SM_Env_Leaves_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_03
+    Mesh Name: SM_Env_Leaves_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Leaves_Pile_01
+    Mesh Name: SM_Env_Leaves_Pile_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Grass_01
+    Mesh Name: SM_Env_Plant_Grass_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Grass_02
+    Mesh Name: SM_Env_Plant_Grass_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Grass_03
+    Mesh Name: SM_Env_Plant_Grass_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Plant_Grass_Patch_01
+    Mesh Name: SM_Env_Plant_Grass_Patch_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Corner_01
+    Mesh Name: SM_Env_Road_Dirt_Corner_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Corner_02
+    Mesh Name: SM_Env_Road_Dirt_Corner_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Loop_01
+    Mesh Name: SM_Env_Road_Dirt_Loop_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Loop_Connect_01
+    Mesh Name: SM_Env_Road_Dirt_Loop_Connect_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Loop_Connect_02
+    Mesh Name: SM_Env_Road_Dirt_Loop_Connect_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Straight_01
+    Mesh Name: SM_Env_Road_Dirt_Straight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Rocks_Small_01
+    Mesh Name: SM_Env_Rocks_Small_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Rocks_Small_02
+    Mesh Name: SM_Env_Rocks_Small_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Sky_Dome_01
+    Mesh Name: SM_Env_Sky_Dome_01
+        Slot: SkyDone_01 (Uses custom shader)
+
+Prefab Name: SM_Env_Tree_01
+    Mesh Name: SM_Env_Tree_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_02
+    Mesh Name: SM_Env_Tree_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_03
+    Mesh Name: SM_Env_Tree_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_04
+    Mesh Name: SM_Env_Tree_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Bush_01
+    Mesh Name: SM_Plant_Bush_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Bush_02
+    Mesh Name: SM_Plant_Bush_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Bush_03
+    Mesh Name: SM_Plant_Bush_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Flowers_01
+    Mesh Name: SM_Plant_Flowers_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Flowers_02
+    Mesh Name: SM_Plant_Flowers_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Flowers_03
+    Mesh Name: SM_Plant_Flowers_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Sunflower_01
+    Mesh Name: SM_Plant_Sunflower_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Plant_Sunflower_02
+    Mesh Name: SM_Plant_Sunflower_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: FX
+-------------------
+Prefab Name: FX_BloodSplatter_01
+    Mesh Name: FX_BloodSplatter_01
+        Slot: Additive_Circle_01 (Uses custom shader)
+
+Prefab Name: FX_Blood_Dripping_01
+    Mesh Name: FX_Blood_Dripping_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Blood_Splatter_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Blood_Splash_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+
+Prefab Name: FX_Blood_Dripping_Wall_01
+    Mesh Name: FX_Blood_Dripping_Wall_01
+        Slot: Additive_Circle_06 (Uses custom shader)
+
+Prefab Name: FX_Confetti_01
+    Mesh Name: FX_Confetti_01
+        Slot: Square_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Confetti_Smoke_01
+        Slot: Additive_Circle_Soft_01 (Uses custom shader)
+    Mesh Name: FX_Confetti_Flash_01
+        Slot: Additive_Circle_04 (Uses custom shader)
+
+Prefab Name: FX_Confetti_02
+    Mesh Name: FX_Confetti_02
+        Slot: Square_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Confetti_Flash_01
+        Slot: Additive_Circle_04 (Uses custom shader)
+    Mesh Name: FX_Confetti_Smoke_01
+        Slot: Additive_Circle_Soft_01 (Uses custom shader)
+
+Prefab Name: FX_Confetti_Cannon_01
+    Mesh Name: FX_Confetti_Cannon_01
+        Slot: Square_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Confetti_Flash_01
+        Slot: Additive_Circle_04 (Uses custom shader)
+    Mesh Name: FX_Confetti_Smoke_01
+        Slot: Additive_Circle_Soft_01 (Uses custom shader)
+
+Prefab Name: FX_Confetti_Shower_01
+    Mesh Name: FX_Confetti_Shower_01
+        Slot: Square_Particle_01 (Uses custom shader)
+
+Prefab Name: FX_Dust_Spots_01
+    Mesh Name: FX_Dust_Spots_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+
+Prefab Name: FX_Fireworks_01
+    Mesh Name: FX_Fireworks_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Large_Red_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Explode_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Additive_Circle_05 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Medium_Blue_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Explode_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Additive_Circle_05 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Circle_Particle_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Explode_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Fireworks_Trail_01
+        Slot: Additive_Circle_05 (Uses custom shader)
+
+Prefab Name: FX_Fire_01
+    Mesh Name: FX_Fire_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+
+Prefab Name: FX_Flies_01
+    Mesh Name: FX_Flies_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+
+Prefab Name: FX_Fog_01
+    Mesh Name: FX_Fog_01
+        Slot: Additive_Circle_Soft_01 (Uses custom shader)
+
+Prefab Name: FX_Gun_Smoke_01
+    Mesh Name: FX_Gun_Smoke_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+
+Prefab Name: FX_Lightning_Background_01
+    Mesh Name: FX_Lightning_Background_01
+        Slot: Lightning_Mat_01 (Uses custom shader)
+
+Prefab Name: FX_Rain_01
+    Mesh Name: FX_Rain_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+    Mesh Name: FX_Rain_Splash_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+
+Prefab Name: FX_Smoke_Blast_01
+    Mesh Name: FX_Smoke_Blast_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+
+Prefab Name: FX_Smoke_Colored_01
+    Mesh Name: FX_Smoke_Colored_01
+        Slot: Additive_Circle_03 (Uses custom shader)
+
+Prefab Name: FX_Smoke_Small_01
+    Mesh Name: FX_Smoke_Small_01
+        Slot: Additive_Circle_03 (Uses custom shader)
+
+Prefab Name: FX_SparksBurst_01
+    Mesh Name: FX_SparksBurst_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+
+Prefab Name: FX_Sparks_01
+    Mesh Name: FX_Sparks_01
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+    Mesh Name: FX_Sparks_02
+        Slot: Additive_Circle_Glow_01 (Uses custom shader)
+
+Prefab Name: FX_SunBeam_01
+    Mesh Name: FX_SunBeam_01
+        Slot: Sunbeam_01 (Uses custom shader)
+
+Prefab Name: FX_TumbleTrash_01
+    Mesh Name: FX_TumbleTrash_01
+        Slot: MTL_HorrorCarnival_02 (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: FX_Water_Splash_01
+    Mesh Name: FX_Water_Splash_01
+        Slot: Additive_Circle_02 (Uses custom shader)
+    Mesh Name: FX_Small_Splash_01
+        Slot: Additive_Circle_01 (Uses custom shader)
+
+Prefab Name: SM_LightRay_Round_01
+    Mesh Name: SM_LightRay_Round
+        Slot: Spotlight_Mat_01 (Uses custom shader)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_Balloon_01
+    Mesh Name: SM_Prop_Balloon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Balloon_02
+    Mesh Name: SM_Prop_Balloon_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Balloon_03
+    Mesh Name: SM_Prop_Balloon_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Balloon_04
+    Mesh Name: SM_Prop_Balloon_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Balloon_05
+    Mesh Name: SM_Prop_Balloon_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barbell_01
+    Mesh Name: SM_Prop_Barbell_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_01
+    Mesh Name: SM_Prop_Barrel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_02
+    Mesh Name: SM_Prop_Barrel_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_01
+    Mesh Name: SM_Prop_Barricade_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_02
+    Mesh Name: SM_Prop_Barricade_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_03
+    Mesh Name: SM_Prop_Barricade_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_04
+    Mesh Name: SM_Prop_Barricade_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_Connectors_01
+    Mesh Name: SM_Prop_Barricade_Connectors_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_Connectors_02
+    Mesh Name: SM_Prop_Barricade_Connectors_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_Connectors_03
+    Mesh Name: SM_Prop_Barricade_Connectors_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Barricade_Connectors_04
+    Mesh Name: SM_Prop_Barricade_Connectors_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Baseball_01
+    Mesh Name: SM_Prop_Baseball_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_BearTrap_01
+    Mesh Name: SM_Prop_BearTrap_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_BearTrap_01_claw_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_BearTrap_01_claw_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bleachers_Corner_01
+    Mesh Name: SM_Prop_Bleachers_Corner_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bleachers_Straight_01
+    Mesh Name: SM_Prop_Bleachers_Straight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bouncy_Castle_01
+    Mesh Name: SM_Prop_Bouncy_Castle_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowling_Ball_01
+    Mesh Name: SM_Prop_Bowling_Ball_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowling_Pin_01
+    Mesh Name: SM_Prop_Bowling_Pin_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bowling_Pin_Damaged_01
+    Mesh Name: SM_Prop_Bowling_Pin_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bucket_01
+    Mesh Name: SM_Prop_Bucket_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bucket_02
+    Mesh Name: SM_Prop_Bucket_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bucket_02_Water_Insert_01
+    Mesh Name: SM_Prop_Bucket_02_Water_Insert_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bulls_Eye_01
+    Mesh Name: SM_Prop_Bulls_Eye_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Bumper_Car_Arena_01
+    Mesh Name: SM_Prop_Bumper_Car_Arena_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Bumper_Car_Arena_01_Lights_01
+        Slot: Neon_Slow_01 (Uses custom shader)
+    Mesh Name: SM_Prop_Bumper_Car_Arena_01_Lights_02
+        Slot: Neon_Fast_02 (Uses custom shader)
+
+Prefab Name: SM_Prop_Bunting_Pole_01
+    Mesh Name: SM_Prop_Bunting_Pole_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Burger_01
+    Mesh Name: SM_Prop_Burger_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Cable_01
+    Mesh Name: SM_Prop_Cable_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Camcorder_01
+    Mesh Name: SM_Prop_Camcorder_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Camera_01
+    Mesh Name: SM_Prop_Camera_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Candyfloss_01
+    Mesh Name: SM_Prop_Candyfloss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Cane_01
+    Mesh Name: SM_Prop_Cane_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Cannon_Ball_01
+    Mesh Name: SM_Prop_Cannon_Ball_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_Toss_01
+    Mesh Name: SM_Prop_Can_Toss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_Toss_Can_01
+    Mesh Name: SM_Prop_Can_Toss_Can_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_Toss_Can_02
+    Mesh Name: SM_Prop_Can_Toss_Can_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Carnival_Entrance_01
+    Mesh Name: SM_Prop_Carnival_Entrance_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Carnival_Entrance_01_flag_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Carnival_Entrance_01_flag_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Carnival_Entrance_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+
+Prefab Name: SM_Prop_Cart_Candyfloss_01
+    Mesh Name: SM_Prop_Cart_Candyfloss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Cart_Candyfloss_Wheels_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Clown_Box_01
+    Mesh Name: SM_Prop_Clown_Box_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Clown_Box_01_Lid_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Clown_Box_01_Spring_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Clown_Head_01
+    Mesh Name: SM_Prop_Clown_Head_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Cobwebs_01
+    Mesh Name: SM_Prop_Cobwebs_01
+        Slot: SpiderWeb_01 (Spiderweb_01)
+
+Prefab Name: SM_Prop_Cobwebs_02
+    Mesh Name: SM_Prop_Cobwebs_02
+        Slot: SpiderWeb_01 (Spiderweb_01)
+
+Prefab Name: SM_Prop_Confetti_Cannon_01
+    Mesh Name: SM_Prop_Confetti_Cannon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Confetti_Cannon_Barrel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Crystal_Ball_01
+    Mesh Name: SM_Prop_Crystal_Ball_01
+        Slot: CrystalBall_01 (No Albedo Texture)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Dart_01
+    Mesh Name: SM_Prop_Dart_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Decal
+    Mesh Name: SM_Prop_Decal
+        Slot: Decal_Footprints_01 (Decal_Footprints_01)
+
+Prefab Name: SM_Prop_Decal_Large_01
+    Mesh Name: SM_Prop_Decal_Large_01
+        Slot: Decal_HauntedHouse_01_A (Decal_Diffuse_01)
+
+Prefab Name: SM_Prop_Dive_Tower_01
+    Mesh Name: SM_Prop_Dive_Tower_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Dive_Tower_Pool_01
+    Mesh Name: SM_Prop_Dive_Tower_Pool_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Dive_Tower_Pool_01_Water_01
+        Slot: Pool_Water_01 (No Albedo Texture)
+
+Prefab Name: SM_Prop_Donut_01
+    Mesh Name: SM_Prop_Donut_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Dunk_Tank_01
+    Mesh Name: SM_Prop_Dunk_Tank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Dunk_Tank_01_Glass_01
+        Slot: Glass_01 (No Albedo Texture)
+    Mesh Name: SM_Prop_Dunk_Tank_01_Seat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Dunk_Tank_01_Water_Insert_01
+    Mesh Name: SM_Prop_Dunk_Tank_01_Water_Insert_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Entrance_Clown_01
+    Mesh Name: SM_Prop_Entrance_Clown_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Entrance_Clown_01_EyeL_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Entrance_Clown_01_EyeR_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Entrance_Clown_01_Rug_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ferris_Wheel_01
+    Mesh Name: SM_Prop_Ferris_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Controls_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Rotate_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_01_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_02_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_03_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_04_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_05_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_06
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_06_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_07
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_07_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_08
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_08_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_09
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_09_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_10
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_10_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_11
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_11_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_12
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Seat_12_Guard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_Lights_01 1
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_WheelGear_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_WheelGear_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_WheelGear_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ferris_Wheel_01_WheelGear_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flags_01
+    Mesh Name: SM_Prop_Flags_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flags_02
+    Mesh Name: SM_Prop_Flags_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flags_03
+    Mesh Name: SM_Prop_Flags_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flags_04
+    Mesh Name: SM_Prop_Flags_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flags_05
+    Mesh Name: SM_Prop_Flags_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flag_01
+    Mesh Name: SM_Prop_Flag_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Flag_01_Cloth_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flag_02
+    Mesh Name: SM_Prop_Flag_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Flag_02_Cloth_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flag_03
+    Mesh Name: SM_Prop_Flag_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Flag_03_Cloth_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flashlight_01
+    Mesh Name: SM_Prop_Flashlight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Flashlight_02
+    Mesh Name: SM_Prop_Flashlight_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Fries_01
+    Mesh Name: SM_Prop_Fries_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Generator_01
+    Mesh Name: SM_Prop_Generator_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Generator_01_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Gun_Swivel_01
+    Mesh Name: SM_Prop_Gun_Swivel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_01
+    Mesh Name: SM_Prop_Hay_Bale_Round_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_01
+    Mesh Name: SM_Prop_Hay_Bale_Square_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Seat_01
+    Mesh Name: SM_Prop_Hay_Seat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_High_Striker_01
+    Mesh Name: SM_Prop_High_Striker_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_High_Striker_01_Button_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_High_Striker_01_Lights_01
+        Slot: Neon_Slow_01 (Uses custom shader)
+
+Prefab Name: SM_Prop_High_Striker_02
+    Mesh Name: SM_Prop_High_Striker_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_High_Striker_02_Button_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_High_Striker_02_Light_01
+        Slot: Neon_Slow_01 (Uses custom shader)
+
+Prefab Name: SM_Prop_Hoops_Hoola_01
+    Mesh Name: SM_Prop_Hoops_Hoola_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Hoops_Small_01
+    Mesh Name: SM_Prop_Hoops_Small_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Hotdog_01
+    Mesh Name: SM_Prop_Hotdog_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Jack_In_A_Box_01
+    Mesh Name: SM_Prop_Jack_In_A_Box_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_A_Box_01_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_A_Box_01_Doll_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Jack_In_A_Box_01_Lid_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_01
+    Mesh Name: SM_Prop_Lamp_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_Post_01
+    Mesh Name: SM_Prop_Lamp_Post_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_Post_02
+    Mesh Name: SM_Prop_Lamp_Post_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Lamp_Post_03
+    Mesh Name: SM_Prop_Lamp_Post_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Laughing_Clown_01
+    Mesh Name: SM_Prop_Laughing_Clown_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Laughing_Clown_01_Head_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_01
+    Mesh Name: SM_Prop_Light_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_02
+    Mesh Name: SM_Prop_Light_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_03
+    Mesh Name: SM_Prop_Light_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Light_04
+    Mesh Name: SM_Prop_Light_04
+        Slot: Neon_Fast_02 (Uses custom shader)
+
+Prefab Name: SM_Prop_Light_05
+    Mesh Name: SM_Prop_Light_05
+        Slot: Neon_Fast_02 (Uses custom shader)
+
+Prefab Name: SM_Prop_Light_Pole_01
+    Mesh Name: SM_Prop_Light_Pole_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Light_Pole_01_FloodLight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Loud_Speaker_01
+    Mesh Name: SM_Prop_Loud_Speaker_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Merry_Go_Round_01
+    Mesh Name: SM_Prop_Merry_Go_Round_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Lights_02
+        Slot: Neon_Slow_01 (Uses custom shader)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Rotate_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_01_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_02_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_03_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_04_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_05_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_06_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_07_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_08_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_09_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10_Crank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10_Horse_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10_Ride_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Arm_10_Horse_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Rotate_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Merry_Go_Round_01_Rotate_01_WoodFloor_01
+        Slot: Base_Building_Wood_01 (Wood_01)
+
+Prefab Name: SM_Prop_Milkshake_01
+    Mesh Name: SM_Prop_Milkshake_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Milk_Bottle_01
+    Mesh Name: SM_Prop_Milk_Bottle_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Milk_Bottle_Toss_Stand_01
+    Mesh Name: SM_Prop_Milk_Bottle_Toss_Stand_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Monkey_01
+    Mesh Name: SM_Prop_Monkey_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Monkey_Arm_L
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Monkey_Cymbal_L
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Monkey_Arm_R
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Monkey_Cymbal_R
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Net_01
+    Mesh Name: SM_Prop_Net_01
+        Slot: Netting_01 (Net_Alpha_01)
+
+Prefab Name: SM_Prop_Papers_01
+    Mesh Name: SM_Prop_Papers_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_02
+    Mesh Name: SM_Prop_Papers_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_03
+    Mesh Name: SM_Prop_Papers_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_04
+    Mesh Name: SM_Prop_Papers_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Papers_05
+    Mesh Name: SM_Prop_Papers_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Photo_Stand_01
+    Mesh Name: SM_Prop_Photo_Stand_01
+        Slot: Board_01 (Board_01)
+
+Prefab Name: SM_Prop_Photo_Stand_02
+    Mesh Name: SM_Prop_Photo_Stand_02
+        Slot: Board_02 (Board_02)
+
+Prefab Name: SM_Prop_Photo_Stand_03
+    Mesh Name: SM_Prop_Photo_Stand_03
+        Slot: Board_03 (Board_03)
+
+Prefab Name: SM_Prop_Pie_01
+    Mesh Name: SM_Prop_Pie_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pie_Splattered_01
+    Mesh Name: SM_Prop_Pie_Splattered_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pie_Throwing_Wall_01
+    Mesh Name: SM_Prop_Pie_Throwing_Wall_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plastic_Bag_01
+    Mesh Name: SM_Prop_Plastic_Bag_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Plastic_Bag_01_Hand_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_01
+    Mesh Name: SM_Prop_Plushies_Grouped_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_02
+    Mesh Name: SM_Prop_Plushies_Grouped_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_03
+    Mesh Name: SM_Prop_Plushies_Grouped_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_04
+    Mesh Name: SM_Prop_Plushies_Grouped_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_05
+    Mesh Name: SM_Prop_Plushies_Grouped_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_06
+    Mesh Name: SM_Prop_Plushies_Grouped_06
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_07
+    Mesh Name: SM_Prop_Plushies_Grouped_07
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Grouped_08
+    Mesh Name: SM_Prop_Plushies_Grouped_08
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Hanging_01
+    Mesh Name: SM_Prop_Plushies_Hanging_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Hanging_02
+    Mesh Name: SM_Prop_Plushies_Hanging_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Pined_01
+    Mesh Name: SM_Prop_Plushies_Pined_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Pined_02
+    Mesh Name: SM_Prop_Plushies_Pined_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Pined_03
+    Mesh Name: SM_Prop_Plushies_Pined_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Pined_04
+    Mesh Name: SM_Prop_Plushies_Pined_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushies_Pined_05
+    Mesh Name: SM_Prop_Plushies_Pined_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_01
+    Mesh Name: SM_Prop_Plushie_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_02
+    Mesh Name: SM_Prop_Plushie_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_03
+    Mesh Name: SM_Prop_Plushie_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_04
+    Mesh Name: SM_Prop_Plushie_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_05
+    Mesh Name: SM_Prop_Plushie_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_06
+    Mesh Name: SM_Prop_Plushie_06
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_07
+    Mesh Name: SM_Prop_Plushie_07
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Plushie_08
+    Mesh Name: SM_Prop_Plushie_08
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pole_01
+    Mesh Name: SM_Prop_Pole_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Popcorn_01
+    Mesh Name: SM_Prop_Popcorn_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Portaloo_01
+    Mesh Name: SM_Prop_Portaloo_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Portaloo_01_Door
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Prize_Wheel_01
+    Mesh Name: SM_Prop_Prize_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Prize_Wheel_01_Ticker_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Prize_Wheel_01_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Lantern_01
+    Mesh Name: SM_Prop_Pumpkin_Lantern_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Lantern_02
+    Mesh Name: SM_Prop_Pumpkin_Lantern_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Lantern_03
+    Mesh Name: SM_Prop_Pumpkin_Lantern_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Plastic_01
+    Mesh Name: SM_Prop_Pumpkin_Plastic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Plastic_02
+    Mesh Name: SM_Prop_Pumpkin_Plastic_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Plastic_03
+    Mesh Name: SM_Prop_Pumpkin_Plastic_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Radio_01
+    Mesh Name: SM_Prop_Radio_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ring_Toss_01
+    Mesh Name: SM_Prop_Ring_Toss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ring_Toss_Ring_01
+    Mesh Name: SM_Prop_Ring_Toss_Ring_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubber_Ducky_01
+    Mesh Name: SM_Prop_Rubber_Ducky_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Bin_01
+    Mesh Name: SM_Prop_Rubbish_Bin_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Bin_02
+    Mesh Name: SM_Prop_Rubbish_Bin_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Bin_03
+    Mesh Name: SM_Prop_Rubbish_Bin_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Candy_01
+    Mesh Name: SM_Prop_Rubbish_Candy_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Can_01
+    Mesh Name: SM_Prop_Rubbish_Can_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Corn_Chips_01
+    Mesh Name: SM_Prop_Rubbish_Corn_Chips_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Hotdog_01
+    Mesh Name: SM_Prop_Rubbish_Hotdog_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Milkshake_01
+    Mesh Name: SM_Prop_Rubbish_Milkshake_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Milkshake_02
+    Mesh Name: SM_Prop_Rubbish_Milkshake_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Napkin_01
+    Mesh Name: SM_Prop_Rubbish_Napkin_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_01
+    Mesh Name: SM_Prop_Rubbish_Pile_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_02
+    Mesh Name: SM_Prop_Rubbish_Pile_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_03
+    Mesh Name: SM_Prop_Rubbish_Pile_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_04
+    Mesh Name: SM_Prop_Rubbish_Pile_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Popcorn_01
+    Mesh Name: SM_Prop_Rubbish_Popcorn_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Popcorn_02
+    Mesh Name: SM_Prop_Rubbish_Popcorn_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Rug_01
+    Mesh Name: SM_Prop_Rug_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_01
+    Mesh Name: SM_Prop_Sign_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_02
+    Mesh Name: SM_Prop_Sign_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_03
+    Mesh Name: SM_Prop_Sign_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Ball_Toss_01
+    Mesh Name: SM_Prop_Sign_Ball_Toss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Billboard_01
+    Mesh Name: SM_Prop_Sign_Billboard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Billboard_Damaged_01
+    Mesh Name: SM_Prop_Sign_Billboard_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Boom_01
+    Mesh Name: SM_Prop_Sign_Boom_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Bumper_Cars_01
+    Mesh Name: SM_Prop_Sign_Bumper_Cars_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Burger_01
+    Mesh Name: SM_Prop_Sign_Burger_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Burger_Damaged_01
+    Mesh Name: SM_Prop_Sign_Burger_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Candyfloss_01
+    Mesh Name: SM_Prop_Sign_Candyfloss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Chain_01
+    Mesh Name: SM_Prop_Sign_Chain_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Chain_02
+    Mesh Name: SM_Prop_Sign_Chain_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Chain_03
+    Mesh Name: SM_Prop_Sign_Chain_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Closed_01
+    Mesh Name: SM_Prop_Sign_Closed_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Death_01
+    Mesh Name: SM_Prop_Sign_Death_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Dive_Tower_01
+    Mesh Name: SM_Prop_Sign_Dive_Tower_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Dunk_Tank_01
+    Mesh Name: SM_Prop_Sign_Dunk_Tank_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Eighty_01
+    Mesh Name: SM_Prop_Sign_Eighty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Ferris_Wheel_01
+    Mesh Name: SM_Prop_Sign_Ferris_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Fifty_01
+    Mesh Name: SM_Prop_Sign_Fifty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Five_Cents_01
+    Mesh Name: SM_Prop_Sign_Five_Cents_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Food_Drinks_01
+    Mesh Name: SM_Prop_Sign_Food_Drinks_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Fortune_Teller_01
+    Mesh Name: SM_Prop_Sign_Fortune_Teller_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Forty_01
+    Mesh Name: SM_Prop_Sign_Forty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Freakshow_01
+    Mesh Name: SM_Prop_Sign_Freakshow_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Games_01
+    Mesh Name: SM_Prop_Sign_Games_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_High_Striker_01
+    Mesh Name: SM_Prop_Sign_High_Striker_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Hotdog_01
+    Mesh Name: SM_Prop_Sign_Hotdog_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Hotdog_Damaged_01
+    Mesh Name: SM_Prop_Sign_Hotdog_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Knive_Throw_01
+    Mesh Name: SM_Prop_Sign_Knive_Throw_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Knock_Em_Down_01
+    Mesh Name: SM_Prop_Sign_Knock_Em_Down_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Merry_Go_Round_01
+    Mesh Name: SM_Prop_Sign_Merry_Go_Round_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Neon_01
+    Mesh Name: SM_Prop_Sign_Neon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Neon_02
+    Mesh Name: SM_Prop_Sign_Neon_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Neon_03
+    Mesh Name: SM_Prop_Sign_Neon_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Ninety_01
+    Mesh Name: SM_Prop_Sign_Ninety_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_One_Cent_01
+    Mesh Name: SM_Prop_Sign_One_Cent_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_One_Dollar_01
+    Mesh Name: SM_Prop_Sign_One_Dollar_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_One_Hundred_01
+    Mesh Name: SM_Prop_Sign_One_Hundred_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Popcorn_01
+    Mesh Name: SM_Prop_Sign_Popcorn_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Poster_01
+    Mesh Name: SM_Prop_Sign_Poster_01
+        Slot: Poster_01 (Poster_01)
+
+Prefab Name: SM_Prop_Sign_Poster_02
+    Mesh Name: SM_Prop_Sign_Poster_02
+        Slot: Poster_01 (Poster_01)
+
+Prefab Name: SM_Prop_Sign_Prizes_01
+    Mesh Name: SM_Prop_Sign_Prizes_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Restrooms_01
+    Mesh Name: SM_Prop_Sign_Restrooms_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Rides_01
+    Mesh Name: SM_Prop_Sign_Rides_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Ring_Toss_01
+    Mesh Name: SM_Prop_Sign_Ring_Toss_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Seventy_01
+    Mesh Name: SM_Prop_Sign_Seventy_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Show_01
+    Mesh Name: SM_Prop_Sign_Show_01
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_01_Alt
+    Mesh Name: SM_Prop_Sign_Show_01_Alt
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_02
+    Mesh Name: SM_Prop_Sign_Show_02
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_02_Alt
+    Mesh Name: SM_Prop_Sign_Show_02_Alt
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_03
+    Mesh Name: SM_Prop_Sign_Show_03
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_03_Alt
+    Mesh Name: SM_Prop_Sign_Show_03_Alt
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_04
+    Mesh Name: SM_Prop_Sign_Show_04
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_04_Alt
+    Mesh Name: SM_Prop_Sign_Show_04_Alt
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_05
+    Mesh Name: SM_Prop_Sign_Show_05
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Show_05_Alt
+    Mesh Name: SM_Prop_Sign_Show_05_Alt
+        Slot: Signs_01 (Signs_01)
+
+Prefab Name: SM_Prop_Sign_Sixty_01
+    Mesh Name: SM_Prop_Sign_Sixty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Taco_01
+    Mesh Name: SM_Prop_Sign_Taco_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Taco_Damaged_01
+    Mesh Name: SM_Prop_Sign_Taco_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Ten_01
+    Mesh Name: SM_Prop_Sign_Ten_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Thirty_01
+    Mesh Name: SM_Prop_Sign_Thirty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Throw_To_Win_01
+    Mesh Name: SM_Prop_Sign_Throw_To_Win_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Tickets_01
+    Mesh Name: SM_Prop_Sign_Tickets_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Twenty_01
+    Mesh Name: SM_Prop_Sign_Twenty_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: Sm_Prop_Sign_Welcome_To_The_Carnival_01
+    Mesh Name: Sm_Prop_Sign_Welcome_To_The_Carnival_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Win_01
+    Mesh Name: SM_Prop_Sign_Win_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Skeleton_01
+    Mesh Name: SM_Prop_Skeleton_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Skull_01
+    Mesh Name: SM_Prop_Skull_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Spider_01
+    Mesh Name: SM_Prop_Spider_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Spider_02
+    Mesh Name: SM_Prop_Spider_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Spider_03
+    Mesh Name: SM_Prop_Spider_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Spirit_Board_01
+    Mesh Name: SM_Prop_Spirit_Board_01
+        Slot: Spirit_Board_01 (Spirit_Board_01)
+
+Prefab Name: SM_Prop_Spirit_Board_Indicator_01
+    Mesh Name: SM_Prop_Spirit_Board_Indicator_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Spotlight_01
+    Mesh Name: SM_Prop_Spotlight_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Spotlight_Bulb_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_01
+    Mesh Name: SM_Prop_Stall_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_01_Damaged_01
+    Mesh Name: SM_Prop_Stall_01_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_02
+    Mesh Name: SM_Prop_Stall_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_02_Damaged_01
+    Mesh Name: SM_Prop_Stall_02_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_03
+    Mesh Name: SM_Prop_Stall_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_03_Damaged_01
+    Mesh Name: SM_Prop_Stall_03_Damaged_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Awning_01
+    Mesh Name: SM_Prop_Stall_Awning_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Bench_01
+    Mesh Name: SM_Prop_Stall_Bench_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Closed_01
+    Mesh Name: SM_Prop_Stall_Closed_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Side_01
+    Mesh Name: SM_Prop_Stall_Side_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Side_02
+    Mesh Name: SM_Prop_Stall_Side_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stall_Side_03
+    Mesh Name: SM_Prop_Stall_Side_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Stool_01
+    Mesh Name: SM_Prop_Stool_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01
+    Mesh Name: SM_Prop_Swinging_Chairs_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Extender_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Extender_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Rotate_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_05
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_06
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_07
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_08
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_09
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_10
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_11
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_12
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_13
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_14
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_15
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_16
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_17
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_18
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_19
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_20
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_21
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_22
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_23
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Chair_24
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Swinging_Rotate_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Swinging_Chairs_01_woodFloor_01
+        Slot: Base_Building_Wood_01 (Wood_01)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Inner_01
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Inner_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Inner_02
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Inner_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Inner_03
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Inner_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Outer_01
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Outer_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Outer_02
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Outer_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Swinging_Chairs_01_Outer_03
+    Mesh Name: SM_Prop_Swinging_Chairs_01_Outer_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_01
+    Mesh Name: SM_Prop_Table_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_02
+    Mesh Name: SM_Prop_Table_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_02_Cloth_01
+    Mesh Name: SM_Prop_Table_02_Cloth_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_Folded_01
+    Mesh Name: SM_Prop_Table_Folded_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Ducks_01
+    Mesh Name: SM_Prop_Target_Ducks_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Ducks_01_Insert_01
+    Mesh Name: SM_Prop_Target_Ducks_01_Insert_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Ducks_01_Insert_02
+    Mesh Name: SM_Prop_Target_Ducks_01_Insert_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Duck_01
+    Mesh Name: SM_Prop_Target_Duck_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Duck_02
+    Mesh Name: SM_Prop_Target_Duck_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Target_Wheel_01
+    Mesh Name: SM_Prop_Target_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Target_Spin_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Teacup_Ride_01
+    Mesh Name: SM_Prop_Teacup_Ride_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Lights_01
+        Slot: Neon_Slow_01 (Uses custom shader)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Platform_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_PlatformLights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Teacup_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Teacup_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Teacup_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Teacup_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Teacup_Ride_01_Teapot_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tennis_Ball_01
+    Mesh Name: SM_Prop_Tennis_Ball_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tent_01
+    Mesh Name: SM_Prop_Tent_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Tent_01_Straps_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tent_Large_01
+    Mesh Name: SM_Prop_Tent_Large_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tent_Large_02
+    Mesh Name: SM_Prop_Tent_Large_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tent_Ring_01
+    Mesh Name: SM_Prop_Tent_Ring_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Tent__Pole_01
+    Mesh Name: SM_Prop_Tent__Pole_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ticket_01
+    Mesh Name: SM_Prop_Ticket_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ticket_02
+    Mesh Name: SM_Prop_Ticket_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ticket_03
+    Mesh Name: SM_Prop_Ticket_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ticket_04
+    Mesh Name: SM_Prop_Ticket_04
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Ticket_Booth_01
+    Mesh Name: SM_Prop_Ticket_Booth_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Ticket_Booth_01_Lights_01
+        Slot: Neon_Fast_02 (Uses custom shader)
+
+Prefab Name: SM_Prop_Ticket_Entry_01
+    Mesh Name: SM_Prop_Ticket_Entry_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_TrashCan_Lid_01
+    Mesh Name: SM_Prop_TrashCan_Lid_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Trunk_01
+    Mesh Name: SM_Prop_Trunk_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Trunk_01_Lid_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Trunk_02
+    Mesh Name: SM_Prop_Trunk_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Trunk_Lid_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Prop_Trunk_Lid_Latch_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Walkie_Talkie_01
+    Mesh Name: SM_Prop_Walkie_Talkie_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Prop_Walkman_01
+    Mesh Name: SM_Prop_Walkman_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: Vehicles
+-------------------
+Prefab Name: SM_Veh_Bumper_Cars_01
+    Mesh Name: SM_Veh_Bumper_Cars_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Bumper_Cars_Aerial_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Bumper_Cars_Brace_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Bumper_Cars_SteeringWheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Carnival_Train_01
+    Mesh Name: SM_Veh_Carnival_Train_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_Door_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_Door_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_Steeringwheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_Wheel_Back_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_Wheel_Front_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Carnival_Train_01_Carriage_01
+    Mesh Name: SM_Veh_Carnival_Train_01_Carriage_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Carnival_Train_01_Carriage_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Trolley_01
+    Mesh Name: SM_Veh_Trolley_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Truck_Food_01
+    Mesh Name: SM_Veh_Truck_Food_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Bars_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Door_L
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Door_L_Glass
+        Slot: Glass_01 (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_Food_01_Door_R
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Door_R_Glass
+        Slot: Glass_01 (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_Food_01_Glass_01
+        Slot: Glass_01 (No Albedo Texture)
+    Mesh Name: SM_Veh_Truck_Food_01_Menu_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Menu_Stand_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Shelf_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_SteeringW
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Wheel_fl
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Wheel_fr
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Wheel_rl
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Truck_Food_01_Wheel_rr
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Wagon_01
+    Mesh Name: SM_Veh_Wagon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Door_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Door_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Door_03
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Wheel_Back_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Wheel_Back_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Wheel_Front_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_01_Wheel_Front_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Wagon_02
+    Mesh Name: SM_Veh_Wagon_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_02_Door_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_02_Wheel_Back_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_02_Wheel_Back_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_02_Wheel_Front_L_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_02_Wheel_Front_R_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Wagon_Cage_01
+    Mesh Name: SM_Veh_Wagon_Cage_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_Cage_01_Ramp_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_Wheel_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Veh_Wagon_Wheel_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Wagon_Steps_01
+    Mesh Name: SM_Veh_Wagon_Steps_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Veh_Wagon_Steps_02
+    Mesh Name: SM_Veh_Wagon_Steps_02
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: Weapons
+-------------------
+Prefab Name: SM_Wep_Axe_01
+    Mesh Name: SM_Wep_Axe_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Baseball_Bat_01
+    Mesh Name: SM_Wep_Baseball_Bat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Bat_01
+    Mesh Name: SM_Wep_Bat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Bat_Saw_01
+    Mesh Name: SM_Wep_Bat_Saw_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Cannon_01
+    Mesh Name: SM_Wep_Cannon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Cannon_01_Cannon_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Cannon_01_Wheels_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Cattle_Prod_01
+    Mesh Name: SM_Wep_Cattle_Prod_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Chainsaw_01
+    Mesh Name: SM_Wep_Chainsaw_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Saw_Teeth_01 (Saw_Teeth_01)
+
+Prefab Name: SM_Wep_Cleaver_01
+    Mesh Name: SM_Wep_Cleaver_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Clown_Bomb_01
+    Mesh Name: SM_Wep_Clown_Bomb_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Dynamite_01
+    Mesh Name: SM_Wep_Dynamite_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Dynamite_Lever_01
+    Mesh Name: SM_Wep_Dynamite_Lever_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Dynamite_Lever_01_Handle_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Hockey_Stick_01
+    Mesh Name: SM_Wep_Hockey_Stick_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Knife_01
+    Mesh Name: SM_Wep_Knife_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Machete_01
+    Mesh Name: SM_Wep_Machete_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Mallet_01
+    Mesh Name: SM_Wep_Mallet_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Nail_Gun_01
+    Mesh Name: SM_Wep_Nail_Gun_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Nail_Gun_Trigger_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Needle_01
+    Mesh Name: SM_Wep_Needle_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Needle_01_Plunger_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Revolver_01
+    Mesh Name: SM_Wep_Revolver_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Spin_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_01
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_02
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_03
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_04
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_05
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Cylinder_Bullet_06
+        Slot: MAT_01A25 (No Albedo Texture)
+    Mesh Name: SM_Wep_Revolver_01_Hammer_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Revolver_01_Trigger_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Saw_01
+    Mesh Name: SM_Wep_Saw_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Shotgun_01
+    Mesh Name: SM_Wep_Shotgun_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Hammer
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Lever
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Slide
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Trigger
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Wep_Throwing_Knife_01
+    Mesh Name: SM_Wep_Throwing_Knife_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+-------------------
+Folder Name: Base
+-------------------
+Prefab Name: SM_Bld_Base_45_Floor_01
+    Mesh Name: SM_Bld_Base_45_Floor_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_45_Floor_Combined_01
+    Mesh Name: SM_Bld_Base_45_Floor_Combined_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_45_Wall_01
+    Mesh Name: SM_Bld_Base_45_Wall_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Ceiling_01
+    Mesh Name: SM_Bld_Base_Ceiling_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Door_01
+    Mesh Name: SM_Bld_Base_Door_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Door_Large_01
+    Mesh Name: SM_Bld_Base_Door_Large_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Floor_01
+    Mesh Name: SM_Bld_Base_Floor_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Floor_Combined_01
+    Mesh Name: SM_Bld_Base_Floor_Combined_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Floor_Half_01
+    Mesh Name: SM_Bld_Base_Floor_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Floor_Quarter_01
+    Mesh Name: SM_Bld_Base_Floor_Quarter_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_01
+    Mesh Name: SM_Bld_Base_Pillar_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_02
+    Mesh Name: SM_Bld_Base_Pillar_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_03
+    Mesh Name: SM_Bld_Base_Pillar_03
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_04
+    Mesh Name: SM_Bld_Base_Pillar_04
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_05
+    Mesh Name: SM_Bld_Base_Pillar_05
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_01
+    Mesh Name: SM_Bld_Base_Pillar_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_02
+    Mesh Name: SM_Bld_Base_Pillar_Half_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_03
+    Mesh Name: SM_Bld_Base_Pillar_Half_03
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_04
+    Mesh Name: SM_Bld_Base_Pillar_Half_04
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Pillar_Half_05
+    Mesh Name: SM_Bld_Base_Pillar_Half_05
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Cap_01
+    Mesh Name: SM_Bld_Base_Roof_Cap_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Cap_Angle_01
+    Mesh Name: SM_Bld_Base_Roof_Cap_Angle_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Cap_Angle_Half_01
+    Mesh Name: SM_Bld_Base_Roof_Cap_Angle_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Cap_End_01
+    Mesh Name: SM_Bld_Base_Roof_Cap_End_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Cap_Half_01
+    Mesh Name: SM_Bld_Base_Roof_Cap_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Corner_In_01
+    Mesh Name: SM_Bld_Base_Roof_Corner_In_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Corner_Out_01
+    Mesh Name: SM_Bld_Base_Roof_Corner_Out_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Half_01
+    Mesh Name: SM_Bld_Base_Roof_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Half_02
+    Mesh Name: SM_Bld_Base_Roof_Half_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Quarter_01
+    Mesh Name: SM_Bld_Base_Roof_Quarter_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Straight_01
+    Mesh Name: SM_Bld_Base_Roof_Straight_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Trim_01
+    Mesh Name: SM_Bld_Base_Roof_Trim_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Trim_Corner_01
+    Mesh Name: SM_Bld_Base_Roof_Trim_Corner_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Roof_Trim_Half_01
+    Mesh Name: SM_Bld_Base_Roof_Trim_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Stairs_01
+    Mesh Name: SM_Bld_Base_Stairs_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Stairs_02
+    Mesh Name: SM_Bld_Base_Stairs_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Stairwell_Wall_01
+    Mesh Name: SM_Bld_Base_Stairwell_Wall_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Stair_Half_01
+    Mesh Name: SM_Bld_Base_Stair_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Stair_Quarter_01
+    Mesh Name: SM_Bld_Base_Stair_Quarter_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_01
+    Mesh Name: SM_Bld_Base_Wall_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Angle_01
+    Mesh Name: SM_Bld_Base_Wall_Angle_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Angle_02
+    Mesh Name: SM_Bld_Base_Wall_Angle_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Angle_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Angle_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Corner_01
+    Mesh Name: SM_Bld_Base_Wall_Corner_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Door_01
+    Mesh Name: SM_Bld_Base_Wall_Door_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Double_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Double_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Double_Large_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Double_Large_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Door_Large_01
+    Mesh Name: SM_Bld_Base_Wall_Door_Large_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Half_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Half_02
+    Mesh Name: SM_Bld_Base_Wall_Half_02
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Half_Angle_01
+    Mesh Name: SM_Bld_Base_Wall_Half_Angle_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Quarter_01
+    Mesh Name: SM_Bld_Base_Wall_Quarter_01
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+
+Prefab Name: SM_Bld_Base_Wall_Window_01
+    Mesh Name: SM_Bld_Base_Wall_Window_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+    Mesh Name: SM_Bld_Base_Wall_Window_01_Glass
+        Slot: Glass_01 (No Albedo Texture)
+
+Prefab Name: SM_Bld_Base_Wall_Window_Double_01
+    Mesh Name: SM_Bld_Base_Wall_Window_Double_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+    Mesh Name: SM_Bld_Base_Wall_Window_Double_01_Glass
+        Slot: Glass_01 (No Albedo Texture)
+
+Prefab Name: SM_Bld_Base_Wall_Window_Half_01
+    Mesh Name: SM_Bld_Base_Wall_Window_Half_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+        Slot: Base_Building_Brick_01 (Brick_Brown_01)
+    Mesh Name: SM_Bld_Base_Wall_Window_Half_01_Glass
+        Slot: Glass_01 (No Albedo Texture)
+
+-------------------
+Folder Name: Attachments
+-------------------
+Prefab Name: SM_Chr_Attach_Animatronic_Head_01
+    Mesh Name: SM_Chr_Attach_Animatronic_Head_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Carny_Eyepatch_01
+    Mesh Name: SM_Chr_Attach_Carny_Eyepatch_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Carny_Hair_01
+    Mesh Name: SM_Chr_Attach_Carny_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Carny_Hat_01
+    Mesh Name: SM_Chr_Attach_Carny_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Carny_Mic_01
+    Mesh Name: SM_Chr_Attach_Carny_Mic_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Carny_Mustache_01
+    Mesh Name: SM_Chr_Attach_Carny_Mustache_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Clown_Female_Hair_01
+    Mesh Name: SM_Chr_Attach_Clown_Female_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Clown_Female_Mask_01
+    Mesh Name: SM_Chr_Attach_Clown_Female_Mask_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Clown_Male_Hair_01
+    Mesh Name: SM_Chr_Attach_Clown_Male_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Clown_Male_Hat_01
+    Mesh Name: SM_Chr_Attach_Clown_Male_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Hat_Strongman_01
+    Mesh Name: SM_Chr_Attach_Hat_Strongman_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Mask_Baseball_01
+    Mesh Name: SM_Chr_Attach_Mask_Baseball_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_RingLeader_Beard_01
+    Mesh Name: SM_Chr_Attach_RingLeader_Beard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_RingLeader_Earrings_01
+    Mesh Name: SM_Chr_Attach_RingLeader_Earrings_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_RingLeader_Hair_01
+    Mesh Name: SM_Chr_Attach_RingLeader_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_RingLeader_Hat_01
+    Mesh Name: SM_Chr_Attach_RingLeader_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Visitor_female_Hair_01
+    Mesh Name: SM_Chr_Attach_Visitor_female_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Visitor_Male_Beard_01
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Beard_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Visitor_Male_Hair_01
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Hair_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Visitor_Male_Hat_01
+    Mesh Name: SM_Chr_Attach_Visitor_Male_Hat_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
+Prefab Name: SM_Chr_Carny_MutantHead_01
+    Mesh Name: SM_Chr_Carny_MutantHead_01
+        Slot: PolygonHorrorCarnival_Mat_01_A (PolygonHorrorCarnival_Texture_01_A)
+
