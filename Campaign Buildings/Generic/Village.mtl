@@ -1,0 +1,430 @@
+# Blender 5.0.1 MTL File: 'Village.blend'
+# www.blender.org
+
+newmtl AncientEmpires_01_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/Golden-Eagle-Assets/Kits/Rome/POLYGON_AncientEmpire_SourceFiles_v3/SourceFiles/Textures/Alts/PolygonAncientWorlds_Texture_01_A.png
+
+newmtl Brick_Mat_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Building_Large_Brick_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Building_Wall_01_Normals.png
+
+newmtl Concrete_Mat_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/Stone_Tex.png
+
+newmtl Floor_Tiles_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/Tiles_Normals_02.png
+
+newmtl Floor_Tiles_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_02.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_02_Normals.png
+
+newmtl Floor_Tiles_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_03.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_03_Normals.png
+
+newmtl Floor_Tiles_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_04.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_03_Normals.png
+
+newmtl Floor_Tiles_05
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_05.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_03_Normals.png
+
+newmtl Floor_Tiles_Edge_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_01_Normals.png
+
+newmtl Floor_Tiles_Edge_Corner_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_Corner_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_Corner_01_Normals.png
+
+newmtl Floor_Tiles_Edge_Double_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_Double_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_Double_01_Normals.png
+
+newmtl Floor_Tiles_Edge_End_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_End_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Tiles/Floor_Tiles_Edge_End_01_Normals.png
+
+newmtl Gold
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.349057 0.225860 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl HalfBrick_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Building_Half_Brick_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/HalfBrick_01_Normals.png
+
+newmtl HalfBrick_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Building_Half_Brick_02.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/HalfBrick_01_Normals.png
+
+newmtl Ivy_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Ivy/Ivy_Combined.tga
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Ivy/Ivy_Combined.tga
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Ivy/Ivy_normals.tga
+
+newmtl Marble_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Building_Marble_02.png
+
+newmtl PolygonAncientEmpire_01_B
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_01_B.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_01_C
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_01_C.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_02_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_02_A.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_03_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_03_A.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_03_B
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_03_B.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_04_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_04_A.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl PolygonAncientEmpire_04_C
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Alts/PolygonAncientEmpire_Texture_04_C.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/PolygonAncientWorlds_Normal_01.png
+
+newmtl Roof
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Roof_Tile_01.png
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Roof_Tile_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/roof_Tiles_normals.png
+
+newmtl Roof_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Roof_Tile_03.png
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Roof_Tile_03.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/roof_Tiles_normals.png
+
+newmtl Statue_Mat_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/Statue_Texture_01.png
+
+newmtl Stone_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Misc/Stone_Tex.png
+
+newmtl Stucco_Orange_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_Orange_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Stucco_White_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_White_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Stucco_White_Pattern_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_White_Pattern_01.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Stucco_White_Pattern_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_White_Pattern_02.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Stucco_White_Pattern_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_White_Pattern_03.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Stucco_White_Pattern_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_White_Pattern_04.png
+map_Bump -bm 1.000000 C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Stucco_01_Normals.png
+
+newmtl Water
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.359558 0.754717 0.724894
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Window_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_01.png
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_01.png
+
+newmtl Window_03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_03.png
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_03.png
+
+newmtl Window_04
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_04.png
+map_d C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/BuildingAlts/Window_04.png
+
+newmtl Wood_Mat_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Base/Wood_01.png
+
+newmtl Wood_Mat_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Damien/Documents/GitHub/TWK-Character-Creator/Character-Creator/Assets/PolygonAncientEmpire/Textures/Base/Wood_02.png
