@@ -1,0 +1,1575 @@
+-------------------
+Folder Name: Buildings
+-------------------
+Prefab Name: SM_Bld_FencePost_01
+    Mesh Name: SM_Bld_FencePost_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Fence_01
+    Mesh Name: SM_Bld_Fence_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Fence_01_Snow
+    Mesh Name: SM_Bld_Fence_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Fence_02
+    Mesh Name: SM_Bld_Fence_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Fence_02_Snow
+    Mesh Name: SM_Bld_Fence_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_HutDoor_01
+    Mesh Name: SM_Bld_HutDoor_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Hut_01
+    Mesh Name: SM_Bld_Hut_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Hut_01_Snow
+    Mesh Name: SM_Bld_Hut_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Market_Snow_01
+    Mesh Name: SM_Bld_Market_Snow_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_01
+    Mesh Name: SM_Bld_Stall_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_02
+    Mesh Name: SM_Bld_Stall_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_03
+    Mesh Name: SM_Bld_Stall_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_04
+    Mesh Name: SM_Bld_Stall_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_Cover_01
+    Mesh Name: SM_Bld_Stall_Cover_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_Cover_02
+    Mesh Name: SM_Bld_Stall_Cover_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_Cover_03
+    Mesh Name: SM_Bld_Stall_Cover_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_Cover_04
+    Mesh Name: SM_Bld_Stall_Cover_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Stall_Cover_05
+    Mesh Name: SM_Bld_Stall_Cover_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_01
+    Mesh Name: SM_Bld_Village_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_02
+    Mesh Name: SM_Bld_Village_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_03
+    Mesh Name: SM_Bld_Village_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_04
+    Mesh Name: SM_Bld_Village_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_05
+    Mesh Name: SM_Bld_Village_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_06
+    Mesh Name: SM_Bld_Village_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_07
+    Mesh Name: SM_Bld_Village_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_HangingCloth_01
+    Mesh Name: SM_Bld_Village_HangingCloth_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_SnowSheet_01
+    Mesh Name: SM_Bld_Village_SnowSheet_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_Top_01
+    Mesh Name: SM_Bld_Village_Top_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Village_WindowDrapes_01
+    Mesh Name: SM_Bld_Village_WindowDrapes_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Wall_01
+    Mesh Name: SM_Bld_Wall_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Wall_02
+    Mesh Name: SM_Bld_Wall_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Bld_Well_01
+    Mesh Name: SM_Bld_Well_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: Character_Knight_Black
+    Mesh Name: Character_Knight
+        Slot: Characters_Black (Characters_Black)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Knight_Brown
+    Mesh Name: Character_Knight
+        Slot: Characters_Brown (Characters_Brown)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Knight_White
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Peasant_Black
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_Black (Characters_Black)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Peasant_Brown
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_Brown (Characters_Brown)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Peasant_White
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Shopkeeper_Black
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_Black (Characters_Black)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Shopkeeper_Brown
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_Brown (Characters_Brown)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Shopkeeper_White
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Viking_Black
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_Black (Characters_Black)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Viking_Brown
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_Brown (Characters_Brown)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Viking_White
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Warrior_Black
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_Black (Characters_Black)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Warrior_Brown
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_Brown (Characters_Brown)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+Prefab Name: Character_Warrior_White
+    Mesh Name: Character_Knight
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Peasant
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Shopkeeper
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Viking
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Character_Warrior
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_CoinBag
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Dagger
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Pouch
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordSheath
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterBladder_01
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WaterCanteen
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor 1
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_WarriorSholderArmor
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_Sword
+        Slot: Characters_White (Characters_White)
+    Mesh Name: Item_SwordHolder
+        Slot: Characters_White (Characters_White)
+
+-------------------
+Folder Name: Environments
+-------------------
+Prefab Name: SM_Env_Bridge_01
+    Mesh Name: SM_Env_Bridge_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Bush_01
+    Mesh Name: SM_Env_Bush_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Bush_02
+    Mesh Name: SM_Env_Bush_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Bush_03
+    Mesh Name: SM_Env_Bush_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Bush_04
+    Mesh Name: SM_Env_Bush_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_CampFire_01
+    Mesh Name: SM_Env_CampFire_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_01
+    Mesh Name: SM_Env_Cloud_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_02
+    Mesh Name: SM_Env_Cloud_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_03
+    Mesh Name: SM_Env_Cloud_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_04
+    Mesh Name: SM_Env_Cloud_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_05
+    Mesh Name: SM_Env_Cloud_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_06
+    Mesh Name: SM_Env_Cloud_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Cloud_07
+    Mesh Name: SM_Env_Cloud_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_DirtMound_01
+    Mesh Name: SM_Env_DirtMound_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_DirtMound_01_Snow
+    Mesh Name: SM_Env_DirtMound_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_01
+    Mesh Name: SM_Env_FloorTile_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_02
+    Mesh Name: SM_Env_FloorTile_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_03
+    Mesh Name: SM_Env_FloorTile_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_04
+    Mesh Name: SM_Env_FloorTile_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_05
+    Mesh Name: SM_Env_FloorTile_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_06
+    Mesh Name: SM_Env_FloorTile_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_FloorTile_07
+    Mesh Name: SM_Env_FloorTile_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_01
+    Mesh Name: SM_Env_Flower_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_02
+    Mesh Name: SM_Env_Flower_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_03
+    Mesh Name: SM_Env_Flower_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_04
+    Mesh Name: SM_Env_Flower_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_05
+    Mesh Name: SM_Env_Flower_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_06
+    Mesh Name: SM_Env_Flower_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_07
+    Mesh Name: SM_Env_Flower_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Flower_08
+    Mesh Name: SM_Env_Flower_08
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Grass_01
+    Mesh Name: SM_Env_Grass_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Grass_02
+    Mesh Name: SM_Env_Grass_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_01
+    Mesh Name: SM_Env_GroundMounds_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_02
+    Mesh Name: SM_Env_GroundMounds_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_03
+    Mesh Name: SM_Env_GroundMounds_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_04
+    Mesh Name: SM_Env_GroundMounds_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_05
+    Mesh Name: SM_Env_GroundMounds_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_06
+    Mesh Name: SM_Env_GroundMounds_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_07
+    Mesh Name: SM_Env_GroundMounds_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_08
+    Mesh Name: SM_Env_GroundMounds_08
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_09
+    Mesh Name: SM_Env_GroundMounds_09
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_GroundMounds_10
+    Mesh Name: SM_Env_GroundMounds_10
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hedge_01
+    Mesh Name: SM_Env_Hedge_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hedge_01_Snow
+    Mesh Name: SM_Env_Hedge_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_HillSnow_01
+    Mesh Name: SM_Env_HillSnow_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_HillSnow_02
+    Mesh Name: SM_Env_HillSnow_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_HillSnow_03
+    Mesh Name: SM_Env_HillSnow_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_HillSnow_04
+    Mesh Name: SM_Env_HillSnow_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hill_01
+    Mesh Name: SM_Env_Hill_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hill_02
+    Mesh Name: SM_Env_Hill_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hill_03
+    Mesh Name: SM_Env_Hill_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Hill_04
+    Mesh Name: SM_Env_Hill_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Ice_01
+    Mesh Name: SM_Env_Ice_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Ice_02
+    Mesh Name: SM_Env_Ice_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Ice_03
+    Mesh Name: SM_Env_Ice_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Lillypads_01
+    Mesh Name: SM_Env_Lillypads_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Lillypads_02
+    Mesh Name: SM_Env_Lillypads_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Lillypads_03
+    Mesh Name: SM_Env_Lillypads_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Mushroom_01
+    Mesh Name: SM_Env_Mushroom_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_01
+    Mesh Name: SM_Env_Pebble_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_02
+    Mesh Name: SM_Env_Pebble_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_03
+    Mesh Name: SM_Env_Pebble_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_04
+    Mesh Name: SM_Env_Pebble_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_05
+    Mesh Name: SM_Env_Pebble_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_06
+    Mesh Name: SM_Env_Pebble_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Pebble_07
+    Mesh Name: SM_Env_Pebble_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Plant_01
+    Mesh Name: SM_Env_Plant_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Plant_02
+    Mesh Name: SM_Env_Plant_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Plant_03
+    Mesh Name: SM_Env_Plant_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Plant_04
+    Mesh Name: SM_Env_Plant_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Plant_05
+    Mesh Name: SM_Env_Plant_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Reeds_01
+    Mesh Name: SM_Env_Reeds_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Reeds_02
+    Mesh Name: SM_Env_Reeds_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Reeds_03
+    Mesh Name: SM_Env_Reeds_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Corner_01
+    Mesh Name: SM_Env_Road_Corner_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Corner_01_Snow
+    Mesh Name: SM_Env_Road_Corner_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Cross_01
+    Mesh Name: SM_Env_Road_Cross_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Cross_01_Snow
+    Mesh Name: SM_Env_Road_Cross_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Straight_01
+    Mesh Name: SM_Env_Road_Straight_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Straight_01_Snow
+    Mesh Name: SM_Env_Road_Straight_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Straight_02
+    Mesh Name: SM_Env_Road_Straight_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_Straight_02_Snow
+    Mesh Name: SM_Env_Road_Straight_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_T_01
+    Mesh Name: SM_Env_Road_T_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Road_T_01_Snow
+    Mesh Name: SM_Env_Road_T_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_01
+    Mesh Name: SM_Env_Rock_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_010
+    Mesh Name: SM_Env_Rock_010
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_011
+    Mesh Name: SM_Env_Rock_011
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_012
+    Mesh Name: SM_Env_Rock_012
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_013
+    Mesh Name: SM_Env_Rock_013
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_014
+    Mesh Name: SM_Env_Rock_014
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_015
+    Mesh Name: SM_Env_Rock_015
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_016
+    Mesh Name: SM_Env_Rock_016
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_02
+    Mesh Name: SM_Env_Rock_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_03
+    Mesh Name: SM_Env_Rock_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_03_Snow
+    Mesh Name: SM_Env_Rock_03_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_04
+    Mesh Name: SM_Env_Rock_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_04_Snow
+    Mesh Name: SM_Env_Rock_04_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_05
+    Mesh Name: SM_Env_Rock_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_05_Snow
+    Mesh Name: SM_Env_Rock_05_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_07
+    Mesh Name: SM_Env_Rock_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_08
+    Mesh Name: SM_Env_Rock_08
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Rock_09
+    Mesh Name: SM_Env_Rock_09
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_SnowPile_01
+    Mesh Name: SM_Env_SnowPile_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_SnowPile_02
+    Mesh Name: SM_Env_SnowPile_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_SnowPile_03
+    Mesh Name: SM_Env_SnowPile_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stalagmite_01
+    Mesh Name: SM_Env_Stalagmite_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stalagmite_02
+    Mesh Name: SM_Env_Stalagmite_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stalagmite_03
+    Mesh Name: SM_Env_Stalagmite_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Corner_01
+    Mesh Name: SM_Env_Stream_Corner_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Corner_01_Snow
+    Mesh Name: SM_Env_Stream_Corner_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Straight_01
+    Mesh Name: SM_Env_Stream_Straight_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Straight_01_Snow
+    Mesh Name: SM_Env_Stream_Straight_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Straight_02
+    Mesh Name: SM_Env_Stream_Straight_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Stream_Straight_02_Snow
+    Mesh Name: SM_Env_Stream_Straight_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeBirch_01
+    Mesh Name: SM_Env_TreeBirch_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeBirch_01_Snow
+    Mesh Name: SM_Env_TreeBirch_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeBirch_02
+    Mesh Name: SM_Env_TreeBirch_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeBirch_03
+    Mesh Name: SM_Env_TreeBirch_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeDead_01
+    Mesh Name: SM_Env_TreeDead_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeDead_02
+    Mesh Name: SM_Env_TreeDead_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeDead_02_Snow
+    Mesh Name: SM_Env_TreeDead_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeLog_01
+    Mesh Name: SM_Env_TreeLog_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_01
+    Mesh Name: SM_Env_TreePine_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_01_Snow
+    Mesh Name: SM_Env_TreePine_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_02
+    Mesh Name: SM_Env_TreePine_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_02_Snow
+    Mesh Name: SM_Env_TreePine_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_03
+    Mesh Name: SM_Env_TreePine_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_03_Snow
+    Mesh Name: SM_Env_TreePine_03_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreePine_04
+    Mesh Name: SM_Env_TreePine_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_TreeStump_01
+    Mesh Name: SM_Env_TreeStump_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_01
+    Mesh Name: SM_Env_Tree_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_010
+    Mesh Name: SM_Env_Tree_010
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_010_Snow
+    Mesh Name: SM_Env_Tree_010_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_011
+    Mesh Name: SM_Env_Tree_011
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_011_Snow
+    Mesh Name: SM_Env_Tree_011_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_012
+    Mesh Name: SM_Env_Tree_012
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_012_Snow
+    Mesh Name: SM_Env_Tree_012_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_013
+    Mesh Name: SM_Env_Tree_013
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_013_Snow
+    Mesh Name: SM_Env_Tree_013_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_014
+    Mesh Name: SM_Env_Tree_014
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_014_Snow
+    Mesh Name: SM_Env_Tree_014_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_015
+    Mesh Name: SM_Env_Tree_015
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_015_Snow
+    Mesh Name: SM_Env_Tree_015_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_016
+    Mesh Name: SM_Env_Tree_016
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_016_Snow
+    Mesh Name: SM_Env_Tree_016_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_017_Snow
+    Mesh Name: SM_Env_Tree_017_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_01_Snow
+    Mesh Name: SM_Env_Tree_01_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_02
+    Mesh Name: SM_Env_Tree_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_02_Snow
+    Mesh Name: SM_Env_Tree_02_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_03
+    Mesh Name: SM_Env_Tree_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_03_Snow
+    Mesh Name: SM_Env_Tree_03_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_04
+    Mesh Name: SM_Env_Tree_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_04_Snow
+    Mesh Name: SM_Env_Tree_04_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_05
+    Mesh Name: SM_Env_Tree_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_06
+    Mesh Name: SM_Env_Tree_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_06_Snow
+    Mesh Name: SM_Env_Tree_06_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_07
+    Mesh Name: SM_Env_Tree_07
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_07_Snow
+    Mesh Name: SM_Env_Tree_07_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_08
+    Mesh Name: SM_Env_Tree_08
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_08_Snow
+    Mesh Name: SM_Env_Tree_08_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_09
+    Mesh Name: SM_Env_Tree_09
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Tree_09_Snow
+    Mesh Name: SM_Env_Tree_09_Snow
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Env_Water
+    Mesh Name: SM_Env_Water
+        Slot: PolyAdventureMaterial_Water_01 (No Albedo Texture)
+
+-------------------
+Folder Name: FX
+-------------------
+Prefab Name: FX_Fire
+    Mesh Name: FX_Fire
+        Slot: Sprites-Default (Uses custom shader)
+
+-------------------
+Folder Name: Items
+-------------------
+Prefab Name: SM_Item_Canteen_01
+    Mesh Name: SM_Item_Canteen_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Fruit_01
+    Mesh Name: SM_Item_Fruit_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Fruit_02
+    Mesh Name: SM_Item_Fruit_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Fruit_03
+    Mesh Name: SM_Item_Fruit_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Gourd_01
+    Mesh Name: SM_Item_Gourd_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Lantern_01
+    Mesh Name: SM_Item_Lantern_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Lantern_02
+    Mesh Name: SM_Item_Lantern_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_01
+    Mesh Name: SM_Item_Potion_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_02
+    Mesh Name: SM_Item_Potion_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_03
+    Mesh Name: SM_Item_Potion_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_04
+    Mesh Name: SM_Item_Potion_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_05
+    Mesh Name: SM_Item_Potion_05
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Potion_06
+    Mesh Name: SM_Item_Potion_06
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Pouch_01
+    Mesh Name: SM_Item_Pouch_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Waterskin_01
+    Mesh Name: SM_Item_Waterskin_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Wine_01
+    Mesh Name: SM_Item_Wine_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Item_Wine_02
+    Mesh Name: SM_Item_Wine_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_Barrel_01
+    Mesh Name: SM_Prop_Barrel_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Barrel_02
+    Mesh Name: SM_Prop_Barrel_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Basket_01
+    Mesh Name: SM_Prop_Basket_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Basket_02
+    Mesh Name: SM_Prop_Basket_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Basket_03
+    Mesh Name: SM_Prop_Basket_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Basket_04
+    Mesh Name: SM_Prop_Basket_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Book_01
+    Mesh Name: SM_Prop_Book_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Book_02
+    Mesh Name: SM_Prop_Book_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Book_03
+    Mesh Name: SM_Prop_Book_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cart_01
+    Mesh Name: SM_Prop_Cart_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cart_02
+    Mesh Name: SM_Prop_Cart_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cart_03
+    Mesh Name: SM_Prop_Cart_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cart_Wheel_01
+    Mesh Name: SM_Prop_Cart_Wheel_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cheese_01
+    Mesh Name: SM_Prop_Cheese_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cheese_02
+    Mesh Name: SM_Prop_Cheese_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Cheese_03
+    Mesh Name: SM_Prop_Cheese_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Chest_01
+    Mesh Name: SM_Prop_Chest_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+    Mesh Name: SM_Prop_Chest_Lid_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Crate_01
+    Mesh Name: SM_Prop_Crate_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Crate_02
+    Mesh Name: SM_Prop_Crate_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Loghalf_01
+    Mesh Name: SM_Prop_Loghalf_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Loghalf_02
+    Mesh Name: SM_Prop_Loghalf_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Logpile_01
+    Mesh Name: SM_Prop_Logpile_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Meat_01
+    Mesh Name: SM_Prop_Meat_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Meat_02
+    Mesh Name: SM_Prop_Meat_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Meat_03
+    Mesh Name: SM_Prop_Meat_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Pot_01
+    Mesh Name: SM_Prop_Pot_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Pot_02
+    Mesh Name: SM_Prop_Pot_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Pot_03
+    Mesh Name: SM_Prop_Pot_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Pumpkin_01
+    Mesh Name: SM_Prop_Pumpkin_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Pumpkin_02
+    Mesh Name: SM_Prop_Pumpkin_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_RoadSign_01
+    Mesh Name: SM_Prop_RoadSign_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Sack_01
+    Mesh Name: SM_Prop_Sack_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Sack_02
+    Mesh Name: SM_Prop_Sack_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Sack_03
+    Mesh Name: SM_Prop_Sack_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Sack_04
+    Mesh Name: SM_Prop_Sack_04
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Scroll_01
+    Mesh Name: SM_Prop_Scroll_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Scroll_02
+    Mesh Name: SM_Prop_Scroll_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Stall_Table_01
+    Mesh Name: SM_Prop_Stall_Table_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_StoneBlock_01
+    Mesh Name: SM_Prop_StoneBlock_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Washingline_01
+    Mesh Name: SM_Prop_Washingline_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Washingline_02
+    Mesh Name: SM_Prop_Washingline_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Prop_Washingline_03
+    Mesh Name: SM_Prop_Washingline_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+-------------------
+Folder Name: Weapons
+-------------------
+Prefab Name: SM_Wep_Axe_01
+    Mesh Name: SM_Wep_Axe_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Dagger_01
+    Mesh Name: SM_Wep_Dagger_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_GreatAxe_01
+    Mesh Name: SM_Wep_GreatAxe_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_MusketPistol_01
+    Mesh Name: SM_Wep_MusketPistol_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Pickaxe_01
+    Mesh Name: SM_Wep_Pickaxe_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Pitchfork_01
+    Mesh Name: SM_Wep_Pitchfork_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Scythe_01
+    Mesh Name: SM_Wep_Scythe_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Shield_01
+    Mesh Name: SM_Wep_Shield_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Shield_02
+    Mesh Name: SM_Wep_Shield_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Shield_03
+    Mesh Name: SM_Wep_Shield_03
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Staff_01
+    Mesh Name: SM_Wep_Staff_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Staff_02
+    Mesh Name: SM_Wep_Staff_02
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
+Prefab Name: SM_Wep_Sword_01
+    Mesh Name: SM_Wep_Sword_01
+        Slot: PolyAdventureMaterial_01 (PolyAdventureTexture_01)
+
