@@ -1,0 +1,2344 @@
+-------------------
+Folder Name: Buildings
+-------------------
+Prefab Name: SM_Bld_Barn_01
+    Mesh Name: SM_Bld_Barn_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Door_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Door_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Shutter_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_01_Shutter_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Barn_02
+    Mesh Name: SM_Bld_Barn_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Door_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Door_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Shutter_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_02_Shutter_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Barn_03
+    Mesh Name: SM_Bld_Barn_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Door_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Door_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Shutter_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Barn_03_Shutter_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_ConcreteBase_01
+    Mesh Name: SM_Bld_ConcreteBase_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Farmhouse_01
+    Mesh Name: SM_Bld_Farmhouse_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_01_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_01_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_01_Door_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_01_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Farmhouse_02
+    Mesh Name: SM_Bld_Farmhouse_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_02_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Farmhouse_02_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Garage_01
+    Mesh Name: SM_Bld_Garage_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Garage_01_Door
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Greenhouse_01
+    Mesh Name: SM_Bld_Greenhouse_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_01_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Door_01_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Door_02_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Greenhouse_Large_01
+    Mesh Name: SM_Bld_Greenhouse_Large_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_01_Glass
+        Slot: PolygonFarm_Plastic (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_01_Glass
+        Slot: PolygonFarm_Plastic (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_02_Glass
+        Slot: PolygonFarm_Plastic (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_03_Glass
+        Slot: PolygonFarm_Plastic (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Greenhouse_Large_Door_04_Glass
+        Slot: PolygonFarm_Plastic (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Outhouse_01
+    Mesh Name: SM_Bld_Outhouse_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Bld_Outhouse_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_ProduceStand_01
+    Mesh Name: SM_Bld_ProduceStand_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Shelter_01
+    Mesh Name: SM_Bld_Shelter_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Silo_01
+    Mesh Name: SM_Bld_Silo_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Silo_02
+    Mesh Name: SM_Bld_Silo_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Silo_Base_01
+    Mesh Name: SM_Bld_Silo_Base_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_Silo_Small_01
+    Mesh Name: SM_Bld_Silo_Small_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Bld_WaterTower_01
+    Mesh Name: SM_Bld_WaterTower_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: SM_Chr_Attach_Buckethat_01 (1)
+    Mesh Name: SM_Chr_Attach_Buckethat_01 (1)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Cap_01
+    Mesh Name: SM_Chr_Attach_Cap_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Cap_02
+    Mesh Name: SM_Chr_Attach_Cap_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_CowboyHat_01
+    Mesh Name: SM_Chr_Attach_CowboyHat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_CowboyHat_02
+    Mesh Name: SM_Chr_Attach_CowboyHat_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Glasses_01
+    Mesh Name: SM_Chr_Attach_Glasses_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_ScarecrowHat_01
+    Mesh Name: SM_Chr_Attach_ScarecrowHat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Attach_Wheat_01
+    Mesh Name: SM_Chr_Attach_Wheat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_FarmBoy_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Farmer_Female_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Farmer_Male_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Farmer_Male_Old_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_FarmGirl_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Chr_Scarecrow_01
+    Mesh Name: SM_Chr_FarmBoy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Female_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Farmer_Male_Old_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_FarmGirl_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Chr_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: Environments
+-------------------
+Prefab Name: SM_Env_Dirt_01
+    Mesh Name: SM_Env_Dirt_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Mound_01
+    Mesh Name: SM_Env_Dirt_Mound_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_01
+    Mesh Name: SM_Env_Dirt_Rows_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_Center_01
+    Mesh Name: SM_Env_Dirt_Rows_Center_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_End_Bottom_01
+    Mesh Name: SM_Env_Dirt_Rows_End_Bottom_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_End_Top_01
+    Mesh Name: SM_Env_Dirt_Rows_End_Top_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_Mounds_01
+    Mesh Name: SM_Env_Dirt_Rows_Mounds_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Rows_Skirt_01
+    Mesh Name: SM_Env_Dirt_Rows_Skirt_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Dirt_Skirt_01
+    Mesh Name: SM_Env_Dirt_Skirt_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Flowers_01
+    Mesh Name: SM_Env_Flowers_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Flowers_02
+    Mesh Name: SM_Env_Flowers_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Flowers_03
+    Mesh Name: SM_Env_Flowers_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Lillypads_01
+    Mesh Name: SM_Env_Lillypads_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Lillypads_02
+    Mesh Name: SM_Env_Lillypads_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_01
+    Mesh Name: SM_Env_Pebbles_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_02
+    Mesh Name: SM_Env_Pebbles_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Pebbles_03
+    Mesh Name: SM_Env_Pebbles_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Pond_01
+    Mesh Name: SM_Env_Pond_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Env_Pond_Water_01
+        Slot: PolygonFarm_Water (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_PuddlePlane_01
+    Mesh Name: SM_Env_PuddlePlane_01
+        Slot: PolygonFarm_Water (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Reeds_01
+    Mesh Name: SM_Env_Reeds_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Reeds_02
+    Mesh Name: SM_Env_Reeds_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Reeds_03
+    Mesh Name: SM_Env_Reeds_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Corner_01
+    Mesh Name: SM_Env_Road_Dirt_Corner_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Corner_02
+    Mesh Name: SM_Env_Road_Dirt_Corner_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_End_01
+    Mesh Name: SM_Env_Road_Dirt_End_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_End_02
+    Mesh Name: SM_Env_Road_Dirt_End_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Intersection_01
+    Mesh Name: SM_Env_Road_Dirt_Intersection_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Straight_01
+    Mesh Name: SM_Env_Road_Dirt_Straight_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Swerve_01
+    Mesh Name: SM_Env_Road_Dirt_Swerve_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_Swerve_02
+    Mesh Name: SM_Env_Road_Dirt_Swerve_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Dirt_T_Section_01
+    Mesh Name: SM_Env_Road_Dirt_T_Section_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_GrassEdge_01
+    Mesh Name: SM_Env_Road_GrassEdge_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_GrassEdge_02
+    Mesh Name: SM_Env_Road_GrassEdge_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Corner_01
+    Mesh Name: SM_Env_Road_Gravel_Corner_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Corner_02
+    Mesh Name: SM_Env_Road_Gravel_Corner_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_End_01
+    Mesh Name: SM_Env_Road_Gravel_End_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_End_02
+    Mesh Name: SM_Env_Road_Gravel_End_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Intersection_01
+    Mesh Name: SM_Env_Road_Gravel_Intersection_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Straight_01
+    Mesh Name: SM_Env_Road_Gravel_Straight_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Swerve_01
+    Mesh Name: SM_Env_Road_Gravel_Swerve_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_Swerve_02
+    Mesh Name: SM_Env_Road_Gravel_Swerve_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Gravel_T_Section_01
+    Mesh Name: SM_Env_Road_Gravel_T_Section_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Pebbles_01
+    Mesh Name: SM_Env_Road_Pebbles_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Road_Pebbles_02
+    Mesh Name: SM_Env_Road_Pebbles_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Apple_01
+    Mesh Name: SM_Env_Tree_Apple_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Apple_Grown_01
+    Mesh Name: SM_Env_Tree_Apple_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Apricot_01
+    Mesh Name: SM_Env_Tree_Apricot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Apricot_Grown_01
+    Mesh Name: SM_Env_Tree_Apricot_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Cherry_01
+    Mesh Name: SM_Env_Tree_Cherry_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Cherry_Grown_01
+    Mesh Name: SM_Env_Tree_Cherry_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Large_01
+    Mesh Name: SM_Env_Tree_Large_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Env_Tree_Large_Swing_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Lemon_01
+    Mesh Name: SM_Env_Tree_Lemon_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Lemon_Grown_01
+    Mesh Name: SM_Env_Tree_Lemon_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Orange_01
+    Mesh Name: SM_Env_Tree_Orange_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Orange_Grown_01
+    Mesh Name: SM_Env_Tree_Orange_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Peach_01
+    Mesh Name: SM_Env_Tree_Peach_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Peach_Grown_01
+    Mesh Name: SM_Env_Tree_Peach_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Pear_01
+    Mesh Name: SM_Env_Tree_Pear_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Pear_Grown_01
+    Mesh Name: SM_Env_Tree_Pear_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Plum_01
+    Mesh Name: SM_Env_Tree_Plum_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Plum_Grown_01
+    Mesh Name: SM_Env_Tree_Plum_Grown_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Stump_01
+    Mesh Name: SM_Env_Tree_Stump_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Stump_02
+    Mesh Name: SM_Env_Tree_Stump_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Tree_Stump_03
+    Mesh Name: SM_Env_Tree_Stump_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Vege_Rows_01
+    Mesh Name: SM_Env_Vege_Rows_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Vege_Rows_02
+    Mesh Name: SM_Env_Vege_Rows_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Env_Vege_Rows_03
+    Mesh Name: SM_Env_Vege_Rows_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: FX
+-------------------
+Prefab Name: FX_Dust_Wind_01
+    Mesh Name: FX_Dust_Wind_01
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Fire_01
+    Mesh Name: FX_Fire_01
+        Slot: FX_Default (Uses custom shader)
+    Mesh Name: FX_Fire_Embers_01
+        Slot: Circle_Particle (Uses custom shader)
+
+Prefab Name: FX_Fire_02
+    Mesh Name: FX_Fire_02
+        Slot: FX_Default (Uses custom shader)
+    Mesh Name: FX_Fire_Embers_02
+        Slot: Circle_Particle (Uses custom shader)
+
+Prefab Name: FX_Pollen_Wind_01
+    Mesh Name: FX_Pollen_Wind_01
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Rain
+    Mesh Name: FX_Rain
+        Slot: Circle_Particle (Uses custom shader)
+
+Prefab Name: FX_Sprayer
+    Mesh Name: FX_Sprayer
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Sprinkler_01
+    Mesh Name: FX_Sprinkler_01
+        Slot: Circle_Particle (Uses custom shader)
+    Mesh Name: FX_Sprinkler_Mist_01
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Sprinkler_Large_01
+    Mesh Name: FX_Sprinkler_Large_01
+        Slot: Circle_Particle (Uses custom shader)
+    Mesh Name: FX_Sprinkler_Large_Mist_01
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Vehicle_Dust_01
+    Mesh Name: FX_Vehicle_Dust_01
+        Slot: FX_Default (Uses custom shader)
+
+Prefab Name: FX_Wheat_Collection_01
+    Mesh Name: FX_Wheat_Collection_01
+        Slot: Wheat_Circle_Particle (Uses custom shader)
+
+Prefab Name: FX_Wheat_Spray_01
+    Mesh Name: FX_Wheat_Spray_01
+        Slot: Wheat_Particle (Uses custom shader)
+    Mesh Name: FX_Wheat_Spray_Dust_01
+        Slot: FX_Default (Uses custom shader)
+
+-------------------
+Folder Name: Generic
+-------------------
+Prefab Name: SM_Generic_Cloud_01
+    Mesh Name: SM_Generic_Cloud_01
+        Slot: PolygonFarm_Clouds (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_02
+    Mesh Name: SM_Generic_Cloud_02
+        Slot: PolygonFarm_Clouds (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_03
+    Mesh Name: SM_Generic_Cloud_03
+        Slot: PolygonFarm_Clouds (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_04
+    Mesh Name: SM_Generic_Cloud_04
+        Slot: PolygonFarm_Clouds (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Cloud_05
+    Mesh Name: SM_Generic_Cloud_05
+        Slot: PolygonFarm_Clouds (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Grass_Patch_01
+    Mesh Name: SM_Generic_Grass_Patch_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Grass_Patch_02
+    Mesh Name: SM_Generic_Grass_Patch_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Grass_Patch_03
+    Mesh Name: SM_Generic_Grass_Patch_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_01
+    Mesh Name: SM_Generic_Ground_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_02
+    Mesh Name: SM_Generic_Ground_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_03
+    Mesh Name: SM_Generic_Ground_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_04
+    Mesh Name: SM_Generic_Ground_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Dirt_01
+    Mesh Name: SM_Generic_Ground_Dirt_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Flat_01
+    Mesh Name: SM_Generic_Ground_Flat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Flat_Wheat_01
+    Mesh Name: SM_Generic_Ground_Flat_Wheat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Hill_01
+    Mesh Name: SM_Generic_Ground_Hill_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Hill_02
+    Mesh Name: SM_Generic_Ground_Hill_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Hill_03
+    Mesh Name: SM_Generic_Ground_Hill_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Tile_01
+    Mesh Name: SM_Generic_Ground_Tile_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ground_Wheat_01
+    Mesh Name: SM_Generic_Ground_Wheat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Grass_01
+    Mesh Name: SM_Generic_Mountains_Grass_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Grass_02
+    Mesh Name: SM_Generic_Mountains_Grass_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Snow_01
+    Mesh Name: SM_Generic_Mountains_Snow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Mountains_Soft_01
+    Mesh Name: SM_Generic_Mountains_Soft_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ocean_Tile_Bumps_01
+    Mesh Name: SM_Generic_Ocean_Tile_Bumps_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Ocean_Tile_Flat_01
+    Mesh Name: SM_Generic_Ocean_Tile_Flat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_01
+    Mesh Name: SM_Generic_Small_Rocks_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_02
+    Mesh Name: SM_Generic_Small_Rocks_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_03
+    Mesh Name: SM_Generic_Small_Rocks_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_04
+    Mesh Name: SM_Generic_Small_Rocks_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Small_Rocks_05
+    Mesh Name: SM_Generic_Small_Rocks_05
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_TreeDead_01
+    Mesh Name: SM_Generic_TreeDead_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_TreeStump_01
+    Mesh Name: SM_Generic_TreeStump_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_01
+    Mesh Name: SM_Generic_Tree_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_02
+    Mesh Name: SM_Generic_Tree_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_03
+    Mesh Name: SM_Generic_Tree_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_04
+    Mesh Name: SM_Generic_Tree_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_Patch_01
+    Mesh Name: SM_Generic_Tree_Patch_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Generic_Tree_Patch_02
+    Mesh Name: SM_Generic_Tree_Patch_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: Plants
+-------------------
+Prefab Name: SM_Prop_Apple_01
+    Mesh Name: SM_Prop_Apple_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Apple_01_Group
+    Mesh Name: SM_Prop_Apple_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Apricot_01
+    Mesh Name: SM_Prop_Apricot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Apricot_01_Group
+    Mesh Name: SM_Prop_Apricot_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Asparagus_01
+    Mesh Name: SM_Prop_Asparagus_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Asparagus_01_L
+    Mesh Name: SM_Prop_Asparagus_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Asparagus_01_M
+    Mesh Name: SM_Prop_Asparagus_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Asparagus_01_S
+    Mesh Name: SM_Prop_Asparagus_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Asparagus_01_Single
+    Mesh Name: SM_Prop_Asparagus_01_Single
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Banana_01
+    Mesh Name: SM_Prop_Banana_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Banana_01_Group
+    Mesh Name: SM_Prop_Banana_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Banana_01_L
+    Mesh Name: SM_Prop_Banana_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Banana_01_M
+    Mesh Name: SM_Prop_Banana_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bean_01_Group
+    Mesh Name: SM_Prop_Bean_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bean_01_L
+    Mesh Name: SM_Prop_Bean_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bean_01_M
+    Mesh Name: SM_Prop_Bean_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bean_01_S
+    Mesh Name: SM_Prop_Bean_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beetroot_01
+    Mesh Name: SM_Prop_Beetroot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beetroot_01_Group
+    Mesh Name: SM_Prop_Beetroot_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beetroot_01_L
+    Mesh Name: SM_Prop_Beetroot_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beetroot_01_M
+    Mesh Name: SM_Prop_Beetroot_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beetroot_01_S
+    Mesh Name: SM_Prop_Beetroot_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Apple_01
+    Mesh Name: SM_Prop_Box_Apple_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Apple_02
+    Mesh Name: SM_Prop_Box_Apple_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Apricot_01
+    Mesh Name: SM_Prop_Box_Apricot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Carrot_01
+    Mesh Name: SM_Prop_Box_Carrot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Cucumber_01
+    Mesh Name: SM_Prop_Box_Cucumber_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Eggplant_01
+    Mesh Name: SM_Prop_Box_Eggplant_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Onion_01
+    Mesh Name: SM_Prop_Box_Onion_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Peach_01
+    Mesh Name: SM_Prop_Box_Peach_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Plum_01
+    Mesh Name: SM_Prop_Box_Plum_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Box_Potato_01
+    Mesh Name: SM_Prop_Box_Potato_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Broccoli_01
+    Mesh Name: SM_Prop_Broccoli_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Broccoli_01_L
+    Mesh Name: SM_Prop_Broccoli_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Broccoli_01_M
+    Mesh Name: SM_Prop_Broccoli_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Broccoli_01_S
+    Mesh Name: SM_Prop_Broccoli_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bush_Round_Row_01
+    Mesh Name: SM_Prop_Bush_Round_Row_01
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Cabbage_01_L
+    Mesh Name: SM_Prop_Cabbage_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabbage_01_M
+    Mesh Name: SM_Prop_Cabbage_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cabbage_01_S
+    Mesh Name: SM_Prop_Cabbage_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Carrot_01
+    Mesh Name: SM_Prop_Carrot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Carrot_01_Group
+    Mesh Name: SM_Prop_Carrot_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Carrot_01_L
+    Mesh Name: SM_Prop_Carrot_01_L
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Carrot_01_M
+    Mesh Name: SM_Prop_Carrot_01_M
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Carrot_01_S
+    Mesh Name: SM_Prop_Carrot_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Cherry_01
+    Mesh Name: SM_Prop_Cherry_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cherry_01_Group
+    Mesh Name: SM_Prop_Cherry_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chilli_01
+    Mesh Name: SM_Prop_Chilli_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chilli_01_Group
+    Mesh Name: SM_Prop_Chilli_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chilli_01_L
+    Mesh Name: SM_Prop_Chilli_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chilli_01_M
+    Mesh Name: SM_Prop_Chilli_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chilli_01_S
+    Mesh Name: SM_Prop_Chilli_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Corn_01
+    Mesh Name: SM_Prop_Corn_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Corn_01_Group
+    Mesh Name: SM_Prop_Corn_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Corn_02
+    Mesh Name: SM_Prop_Corn_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cucumber_01
+    Mesh Name: SM_Prop_Cucumber_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cucumber_01_Group
+    Mesh Name: SM_Prop_Cucumber_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cucumber_01_L
+    Mesh Name: SM_Prop_Cucumber_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cucumber_01_M
+    Mesh Name: SM_Prop_Cucumber_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Cucumber_01_S
+    Mesh Name: SM_Prop_Cucumber_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Eggplant_01
+    Mesh Name: SM_Prop_Eggplant_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Eggplant_01_Group
+    Mesh Name: SM_Prop_Eggplant_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Eggplant_01_L
+    Mesh Name: SM_Prop_Eggplant_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Eggplant_01_M
+    Mesh Name: SM_Prop_Eggplant_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Eggplant_01_S
+    Mesh Name: SM_Prop_Eggplant_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hemp_01_L
+    Mesh Name: SM_Prop_Hemp_01_L
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hemp_01_M
+    Mesh Name: SM_Prop_Hemp_01_M
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hemp_01_S
+    Mesh Name: SM_Prop_Hemp_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Lemon_01
+    Mesh Name: SM_Prop_Lemon_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Lemon_01_Group
+    Mesh Name: SM_Prop_Lemon_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Lettuce_01_L
+    Mesh Name: SM_Prop_Lettuce_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Lettuce_01_M
+    Mesh Name: SM_Prop_Lettuce_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Lettuce_01_S
+    Mesh Name: SM_Prop_Lettuce_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Onion_01
+    Mesh Name: SM_Prop_Onion_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Onion_01_Group
+    Mesh Name: SM_Prop_Onion_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Onion_01_L
+    Mesh Name: SM_Prop_Onion_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Onion_01_M
+    Mesh Name: SM_Prop_Onion_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Onion_01_S
+    Mesh Name: SM_Prop_Onion_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Orange_01
+    Mesh Name: SM_Prop_Orange_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Orange_01_Group
+    Mesh Name: SM_Prop_Orange_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Peach_01
+    Mesh Name: SM_Prop_Peach_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Peach_01_Group
+    Mesh Name: SM_Prop_Peach_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pear_01
+    Mesh Name: SM_Prop_Pear_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pear_01_Group
+    Mesh Name: SM_Prop_Pear_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pepper_01
+    Mesh Name: SM_Prop_Pepper_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pepper_01_Group
+    Mesh Name: SM_Prop_Pepper_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pepper_01_L
+    Mesh Name: SM_Prop_Pepper_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pepper_01_M
+    Mesh Name: SM_Prop_Pepper_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pepper_01_S
+    Mesh Name: SM_Prop_Pepper_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_01_Bean
+    Mesh Name: SM_Prop_Plant_Bush_01_Bean
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_01_L
+    Mesh Name: SM_Prop_Plant_Bush_01_L
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_01_M
+    Mesh Name: SM_Prop_Plant_Bush_01_M
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_01_Pepper
+    Mesh Name: SM_Prop_Plant_Bush_01_Pepper
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Bush_01_S
+    Mesh Name: SM_Prop_Plant_Bush_01_S
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_02_L
+    Mesh Name: SM_Prop_Plant_Bush_02_L
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_02_M
+    Mesh Name: SM_Prop_Plant_Bush_02_M
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_02_S
+    Mesh Name: SM_Prop_Plant_Bush_02_S
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Bush_02_Tomato
+    Mesh Name: SM_Prop_Plant_Bush_02_Tomato
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Bush_03_Chilli
+    Mesh Name: SM_Prop_Plant_Bush_03_Chilli
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Bush_03_L
+    Mesh Name: SM_Prop_Plant_Bush_03_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Bush_03_M
+    Mesh Name: SM_Prop_Plant_Bush_03_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Bush_03_S
+    Mesh Name: SM_Prop_Plant_Bush_03_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Corn_01
+    Mesh Name: SM_Prop_Plant_Corn_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Corn_01_L
+    Mesh Name: SM_Prop_Plant_Corn_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Corn_01_M
+    Mesh Name: SM_Prop_Plant_Corn_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Corn_01_S
+    Mesh Name: SM_Prop_Plant_Corn_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_01_L
+    Mesh Name: SM_Prop_Plant_Ground_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_01_L2
+    Mesh Name: SM_Prop_Plant_Ground_01_L2
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_01_M
+    Mesh Name: SM_Prop_Plant_Ground_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_01_S
+    Mesh Name: SM_Prop_Plant_Ground_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_02_L
+    Mesh Name: SM_Prop_Plant_Ground_02_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_02_L2
+    Mesh Name: SM_Prop_Plant_Ground_02_L2
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_02_M
+    Mesh Name: SM_Prop_Plant_Ground_02_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_02_S
+    Mesh Name: SM_Prop_Plant_Ground_02_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_03_L
+    Mesh Name: SM_Prop_Plant_Ground_03_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_03_L2
+    Mesh Name: SM_Prop_Plant_Ground_03_L2
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_03_M
+    Mesh Name: SM_Prop_Plant_Ground_03_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Ground_03_S
+    Mesh Name: SM_Prop_Plant_Ground_03_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Potato_01_L
+    Mesh Name: SM_Prop_Plant_Potato_01_L
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Potato_01_M
+    Mesh Name: SM_Prop_Plant_Potato_01_M
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Potato_01_S
+    Mesh Name: SM_Prop_Plant_Potato_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+
+Prefab Name: SM_Prop_Plant_Strawberry_01
+    Mesh Name: SM_Prop_Plant_Strawberry_01
+        Slot: PolygonFarm_Leaf_01 (Leaves_Diff)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_01
+    Mesh Name: SM_Prop_Plant_Wheat_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_02
+    Mesh Name: SM_Prop_Plant_Wheat_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_03
+    Mesh Name: SM_Prop_Plant_Wheat_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_04
+    Mesh Name: SM_Prop_Plant_Wheat_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Cut_01
+    Mesh Name: SM_Prop_Plant_Wheat_Cut_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Cut_02
+    Mesh Name: SM_Prop_Plant_Wheat_Cut_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Optimised_01
+    Mesh Name: SM_Prop_Plant_Wheat_Optimised_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Optimised_02
+    Mesh Name: SM_Prop_Plant_Wheat_Optimised_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Optimised_03
+    Mesh Name: SM_Prop_Plant_Wheat_Optimised_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plant_Wheat_Optimised_04
+    Mesh Name: SM_Prop_Plant_Wheat_Optimised_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plum_01
+    Mesh Name: SM_Prop_Plum_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Plum_01_Group
+    Mesh Name: SM_Prop_Plum_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Potato_01
+    Mesh Name: SM_Prop_Potato_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Potato_01_Group
+    Mesh Name: SM_Prop_Potato_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Potato_02
+    Mesh Name: SM_Prop_Potato_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_01
+    Mesh Name: SM_Prop_Pumpkin_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_01_L
+    Mesh Name: SM_Prop_Pumpkin_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_01_M
+    Mesh Name: SM_Prop_Pumpkin_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_01_S
+    Mesh Name: SM_Prop_Pumpkin_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Italian_01
+    Mesh Name: SM_Prop_Pumpkin_Italian_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Italian_01_L
+    Mesh Name: SM_Prop_Pumpkin_Italian_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Italian_01_M
+    Mesh Name: SM_Prop_Pumpkin_Italian_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_Italian_01_S
+    Mesh Name: SM_Prop_Pumpkin_Italian_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_White_01
+    Mesh Name: SM_Prop_Pumpkin_White_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_White_01_L
+    Mesh Name: SM_Prop_Pumpkin_White_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_White_01_M
+    Mesh Name: SM_Prop_Pumpkin_White_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pumpkin_White_01_S
+    Mesh Name: SM_Prop_Pumpkin_White_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Butternut_01
+    Mesh Name: SM_Prop_Squash_Butternut_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Butternut_01_L
+    Mesh Name: SM_Prop_Squash_Butternut_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Butternut_01_M
+    Mesh Name: SM_Prop_Squash_Butternut_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Butternut_01_S
+    Mesh Name: SM_Prop_Squash_Butternut_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Delicata_01
+    Mesh Name: SM_Prop_Squash_Delicata_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Delicata_01_L
+    Mesh Name: SM_Prop_Squash_Delicata_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Delicata_01_M
+    Mesh Name: SM_Prop_Squash_Delicata_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Squash_Delicata_01_S
+    Mesh Name: SM_Prop_Squash_Delicata_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Strawberry_01
+    Mesh Name: SM_Prop_Strawberry_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Strawberry_01_Group
+    Mesh Name: SM_Prop_Strawberry_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Strawberry_01_L
+    Mesh Name: SM_Prop_Strawberry_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Strawberry_01_M
+    Mesh Name: SM_Prop_Strawberry_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Strawberry_01_S
+    Mesh Name: SM_Prop_Strawberry_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Sunflower_01
+    Mesh Name: SM_Prop_Sunflower_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Sunflower_02
+    Mesh Name: SM_Prop_Sunflower_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tomato_01
+    Mesh Name: SM_Prop_Tomato_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tomato_01_Group
+    Mesh Name: SM_Prop_Tomato_01_Group
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tomato_01_L
+    Mesh Name: SM_Prop_Tomato_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tomato_01_M
+    Mesh Name: SM_Prop_Tomato_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tomato_01_S
+    Mesh Name: SM_Prop_Tomato_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Watermelon_01
+    Mesh Name: SM_Prop_Watermelon_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Watermelon_01_L
+    Mesh Name: SM_Prop_Watermelon_01_L
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Watermelon_01_M
+    Mesh Name: SM_Prop_Watermelon_01_M
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Watermelon_01_S
+    Mesh Name: SM_Prop_Watermelon_01_S
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_Anvil_01
+    Mesh Name: SM_Prop_Anvil_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_01
+    Mesh Name: SM_Prop_Barrel_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_02
+    Mesh Name: SM_Prop_Barrel_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Barrel_Half_01
+    Mesh Name: SM_Prop_Barrel_Half_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bed_01
+    Mesh Name: SM_Prop_Bed_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_01
+    Mesh Name: SM_Prop_Beehive_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_02
+    Mesh Name: SM_Prop_Beehive_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_03
+    Mesh Name: SM_Prop_Beehive_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_04
+    Mesh Name: SM_Prop_Beehive_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_05
+    Mesh Name: SM_Prop_Beehive_05
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Beehive_06
+    Mesh Name: SM_Prop_Beehive_06
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Bench_01
+    Mesh Name: SM_Prop_Bench_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_01
+    Mesh Name: SM_Prop_Can_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Can_02
+    Mesh Name: SM_Prop_Can_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_ChainSaw_01
+    Mesh Name: SM_Prop_ChainSaw_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_01
+    Mesh Name: SM_Prop_Chair_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chair_Rocking_01
+    Mesh Name: SM_Prop_Chair_Rocking_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chicken_Coop_01
+    Mesh Name: SM_Prop_Chicken_Coop_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Chicken_Coop_Cage_01
+    Mesh Name: SM_Prop_Chicken_Coop_Cage_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+        Slot: PolygonFarm_Fence (Fence_Alpha)
+    Mesh Name: SM_Prop_Chicken_Coop_Cage_Door_01
+        Slot: PolygonFarm_Fence (Fence_Alpha)
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_ClothesLine_01
+    Mesh Name: SM_Prop_ClothesLine_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_ClothesLine_02
+    Mesh Name: SM_Prop_ClothesLine_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_ClothesLine_03
+    Mesh Name: SM_Prop_ClothesLine_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Crate_01
+    Mesh Name: SM_Prop_Crate_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_01
+    Mesh Name: SM_Prop_Fence_Fancy_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_02
+    Mesh Name: SM_Prop_Fence_Fancy_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_03
+    Mesh Name: SM_Prop_Fence_Fancy_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Gate_01
+    Mesh Name: SM_Prop_Fence_Fancy_Gate_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Fence_Fancy_Gate_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Fence_Fancy_Gate_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Gate_02
+    Mesh Name: SM_Prop_Fence_Fancy_Gate_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Fence_Fancy_Gate_Door_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Pole_01
+    Mesh Name: SM_Prop_Fence_Fancy_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Pole_02
+    Mesh Name: SM_Prop_Fence_Fancy_Pole_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Pole_03
+    Mesh Name: SM_Prop_Fence_Fancy_Pole_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Pole_Spike_01
+    Mesh Name: SM_Prop_Fence_Fancy_Pole_Spike_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Fancy_Pole_Spike_02
+    Mesh Name: SM_Prop_Fence_Fancy_Pole_Spike_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Painted_01
+    Mesh Name: SM_Prop_Fence_Painted_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Painted_02
+    Mesh Name: SM_Prop_Fence_Painted_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Painted_Pole_01
+    Mesh Name: SM_Prop_Fence_Painted_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Painted_Pole_02
+    Mesh Name: SM_Prop_Fence_Painted_Pole_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_01
+    Mesh Name: SM_Prop_Fence_Wire_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_02
+    Mesh Name: SM_Prop_Fence_Wire_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_03
+    Mesh Name: SM_Prop_Fence_Wire_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_04
+    Mesh Name: SM_Prop_Fence_Wire_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_Gate_01
+    Mesh Name: SM_Prop_Fence_Wire_Gate_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wire_Pole_01
+    Mesh Name: SM_Prop_Fence_Wire_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_01
+    Mesh Name: SM_Prop_Fence_Wood_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_02
+    Mesh Name: SM_Prop_Fence_Wood_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_03
+    Mesh Name: SM_Prop_Fence_Wood_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Gate_01
+    Mesh Name: SM_Prop_Fence_Wood_Gate_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Fence_Wood_Gate_Door_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Pole_01
+    Mesh Name: SM_Prop_Fence_Wood_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Pole_02
+    Mesh Name: SM_Prop_Fence_Wood_Pole_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Pole_Inset_01
+    Mesh Name: SM_Prop_Fence_Wood_Pole_Inset_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Round_01
+    Mesh Name: SM_Prop_Fence_Wood_Round_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Round_02
+    Mesh Name: SM_Prop_Fence_Wood_Round_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Round_Inset_01
+    Mesh Name: SM_Prop_Fence_Wood_Round_Inset_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Fence_Wood_Round_Pole_01
+    Mesh Name: SM_Prop_Fence_Wood_Round_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_GasCan_01
+    Mesh Name: SM_Prop_GasCan_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Gastank_01
+    Mesh Name: SM_Prop_Gastank_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_GrainBag_01
+    Mesh Name: SM_Prop_GrainBag_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_GrainBag_Open_01
+    Mesh Name: SM_Prop_GrainBag_Open_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_GrainBag_Open_02
+    Mesh Name: SM_Prop_GrainBag_Open_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_01
+    Mesh Name: SM_Prop_Hay_Bale_Round_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_01_Green
+    Mesh Name: SM_Prop_Hay_Bale_Round_01_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_02
+    Mesh Name: SM_Prop_Hay_Bale_Round_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_02_Green
+    Mesh Name: SM_Prop_Hay_Bale_Round_02_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Round_Plastic_01
+    Mesh Name: SM_Prop_Hay_Bale_Round_Plastic_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_01
+    Mesh Name: SM_Prop_Hay_Bale_Square_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_01_Green
+    Mesh Name: SM_Prop_Hay_Bale_Square_01_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_02
+    Mesh Name: SM_Prop_Hay_Bale_Square_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_02_Green
+    Mesh Name: SM_Prop_Hay_Bale_Square_02_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_03
+    Mesh Name: SM_Prop_Hay_Bale_Square_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_03_Green
+    Mesh Name: SM_Prop_Hay_Bale_Square_03_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Bale_Square_Plastic_01
+    Mesh Name: SM_Prop_Hay_Bale_Square_Plastic_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Pile_01
+    Mesh Name: SM_Prop_Hay_Pile_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Pile_01_Green
+    Mesh Name: SM_Prop_Hay_Pile_01_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Pile_02
+    Mesh Name: SM_Prop_Hay_Pile_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Hay_Pile_02_Green
+    Mesh Name: SM_Prop_Hay_Pile_02_Green
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Horse_Jump_01
+    Mesh Name: SM_Prop_Horse_Jump_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Horse_Jump_02
+    Mesh Name: SM_Prop_Horse_Jump_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Horse_Jump_03
+    Mesh Name: SM_Prop_Horse_Jump_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_01
+    Mesh Name: SM_Prop_LetterBox_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_02
+    Mesh Name: SM_Prop_LetterBox_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_03
+    Mesh Name: SM_Prop_LetterBox_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_04
+    Mesh Name: SM_Prop_LetterBox_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_05
+    Mesh Name: SM_Prop_LetterBox_05
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_06
+    Mesh Name: SM_Prop_LetterBox_06
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_07
+    Mesh Name: SM_Prop_LetterBox_07
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Generic_01
+    Mesh Name: SM_Prop_LetterBox_Generic_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_LetterBox_Generic_Flap_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Group_01
+    Mesh Name: SM_Prop_LetterBox_Group_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Group_02
+    Mesh Name: SM_Prop_LetterBox_Group_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Numbers_01
+    Mesh Name: SM_Prop_LetterBox_Numbers_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Numbers_02
+    Mesh Name: SM_Prop_LetterBox_Numbers_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Numbers_03
+    Mesh Name: SM_Prop_LetterBox_Numbers_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Numbers_04
+    Mesh Name: SM_Prop_LetterBox_Numbers_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_LetterBox_Signal_Flag_01
+    Mesh Name: SM_Prop_LetterBox_Signal_Flag_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_PalletCrate_01
+    Mesh Name: SM_Prop_PalletCrate_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_PlantBox_Large_01
+    Mesh Name: SM_Prop_PlantBox_Large_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_PlasticBin_01
+    Mesh Name: SM_Prop_PlasticBin_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_01
+    Mesh Name: SM_Prop_Pot_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Pot_02
+    Mesh Name: SM_Prop_Pot_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Power_Lines_01
+    Mesh Name: SM_Prop_Power_Lines_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Power_Pole_01
+    Mesh Name: SM_Prop_Power_Pole_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rack_01
+    Mesh Name: SM_Prop_Rack_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Ranch_Sign_01
+    Mesh Name: SM_Prop_Ranch_Sign_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Ranch_Sign_Text_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_01
+    Mesh Name: SM_Prop_Rubbish_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_02
+    Mesh Name: SM_Prop_Rubbish_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_03
+    Mesh Name: SM_Prop_Rubbish_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_04
+    Mesh Name: SM_Prop_Rubbish_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_05
+    Mesh Name: SM_Prop_Rubbish_05
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_06
+    Mesh Name: SM_Prop_Rubbish_06
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_07
+    Mesh Name: SM_Prop_Rubbish_07
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_08
+    Mesh Name: SM_Prop_Rubbish_08
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_09
+    Mesh Name: SM_Prop_Rubbish_09
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_01
+    Mesh Name: SM_Prop_Rubbish_Pile_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_02
+    Mesh Name: SM_Prop_Rubbish_Pile_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_03
+    Mesh Name: SM_Prop_Rubbish_Pile_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_04
+    Mesh Name: SM_Prop_Rubbish_Pile_04
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Pile_05
+    Mesh Name: SM_Prop_Rubbish_Pile_05
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Rusted_Drum_01
+    Mesh Name: SM_Prop_Rusted_Drum_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Scarecrow_01
+    Mesh Name: SM_Prop_Scarecrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_SeedPacket_01
+    Mesh Name: SM_Prop_SeedPacket_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_SeedPacket_02
+    Mesh Name: SM_Prop_SeedPacket_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_SignPost_01
+    Mesh Name: SM_Prop_SignPost_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_SignPost_02
+    Mesh Name: SM_Prop_SignPost_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_SignPost_03
+    Mesh Name: SM_Prop_SignPost_03
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Sign_Apples_01
+    Mesh Name: SM_Prop_Sign_Apples_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Cheeries_01
+    Mesh Name: SM_Prop_Sign_Cheeries_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Cucumbers_01
+    Mesh Name: SM_Prop_Sign_Cucumbers_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Fruit_01
+    Mesh Name: SM_Prop_Sign_Fruit_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Oranges_01
+    Mesh Name: SM_Prop_Sign_Oranges_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Peaches_01
+    Mesh Name: SM_Prop_Sign_Peaches_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Plums_01
+    Mesh Name: SM_Prop_Sign_Plums_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Potatoes_01
+    Mesh Name: SM_Prop_Sign_Potatoes_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Pumpkins_01
+    Mesh Name: SM_Prop_Sign_Pumpkins_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Squash_01
+    Mesh Name: SM_Prop_Sign_Squash_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Strawberries_01
+    Mesh Name: SM_Prop_Sign_Strawberries_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_Sign_Veges_01
+    Mesh Name: SM_Prop_Sign_Veges_01
+        Slot: PolygonFarm_Signs_01 (PolygonFarm_Signs)
+
+Prefab Name: SM_Prop_SpoolWheel_01
+    Mesh Name: SM_Prop_SpoolWheel_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Sprinkler_01
+    Mesh Name: SM_Prop_Sprinkler_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Sprinkler_Hose_01
+    Mesh Name: SM_Prop_Sprinkler_Hose_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Stop_Sign_01
+    Mesh Name: SM_Prop_Stop_Sign_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_01
+    Mesh Name: SM_Prop_Table_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Table_02
+    Mesh Name: SM_Prop_Table_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_ToolBox_01
+    Mesh Name: SM_Prop_ToolBox_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_ToolBox_Lid_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Axe_01
+    Mesh Name: SM_Prop_Tool_Axe_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Bucket_01
+    Mesh Name: SM_Prop_Tool_Bucket_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Hayfork_01
+    Mesh Name: SM_Prop_Tool_Hayfork_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Hoe_01
+    Mesh Name: SM_Prop_Tool_Hoe_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Pitchfork_01
+    Mesh Name: SM_Prop_Tool_Pitchfork_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Rake_01
+    Mesh Name: SM_Prop_Tool_Rake_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Scythe_01
+    Mesh Name: SM_Prop_Tool_Scythe_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tool_Spade_01
+    Mesh Name: SM_Prop_Tool_Spade_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Trough_01
+    Mesh Name: SM_Prop_Trough_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Trough_Water_01
+        Slot: PolygonFarm_Water (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Truck_Rusted_01
+    Mesh Name: SM_Prop_Truck_Rusted_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Tyre_01
+    Mesh Name: SM_Prop_Tyre_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Ute_Wreck_01
+    Mesh Name: SM_Prop_Ute_Wreck_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Vice_01
+    Mesh Name: SM_Prop_Vice_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Vice_Slide_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Vice_Handle_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Watering_Can_01
+    Mesh Name: SM_Prop_Watering_Can_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Watering_Can_Top
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Weathervane_01
+    Mesh Name: SM_Prop_Weathervane_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Weathervane_Arrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Weathervane_02
+    Mesh Name: SM_Prop_Weathervane_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Well_01
+    Mesh Name: SM_Prop_Well_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Well_Handle_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Wheelbarrow_01
+    Mesh Name: SM_Prop_Wheelbarrow_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Wheelbarrow_Wheel_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Wheelbarrow_Metal_01
+    Mesh Name: SM_Prop_Wheelbarrow_Metal_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Wheelbarrow_Wheel_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Windfarm_01
+    Mesh Name: SM_Prop_Windfarm_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Windfarm_Blades_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Windmill_01
+    Mesh Name: SM_Prop_Windmill_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Windmill_Top_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Prop_Windmill_Blades_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Wood_Stack_01
+    Mesh Name: SM_Prop_Wood_Stack_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Prop_Wood_Stack_02
+    Mesh Name: SM_Prop_Wood_Stack_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Wep_Shotgun_01
+    Mesh Name: SM_Wep_Shotgun_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Barrel
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Trigger_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Wep_Shotgun_01_Trigger_02
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+-------------------
+Folder Name: Vehicles
+-------------------
+Prefab Name: SM_Veh_Attach_Baler_01
+    Mesh Name: SM_Veh_Attach_Baler_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Reel
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_Small_l
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Baler_Wheel_Small_r
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Attach_Planter_01
+    Mesh Name: SM_Veh_Attach_Planter_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Planter_Wheels
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Attach_Plough_01
+    Mesh Name: SM_Veh_Attach_Plough_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Plough_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Plough_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Plough_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Plough_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Attach_Sprayer_01
+    Mesh Name: SM_Veh_Attach_Sprayer_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Sprayer_Arm_l
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Sprayer_Arm_r
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Sprayer_Wheel_l
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Sprayer_Wheel_r
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Attach_Trailer_Cage_01
+    Mesh Name: SM_Veh_Attach_Trailer_Cage_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Cage_Wheel_l
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Cage_Wheel_r
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Cage_Wire
+        Slot: PolygonFarm_Fence (Fence_Alpha)
+
+Prefab Name: SM_Veh_Attach_Trailer_Cylinder_01
+    Mesh Name: SM_Veh_Attach_Trailer_Cylinder_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Cylinder_Wheel_l
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Cylinder_Wheel_r
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Attach_Trailer_Tank_01
+    Mesh Name: SM_Veh_Attach_Trailer_Tank_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Tank_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Tank_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Tank_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Attach_Trailer_Tank_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Harvester_01
+    Mesh Name: SM_Veh_Harvester_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Reel
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_SteeringW
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Unloader
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Harvester_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Pickup_01
+    Mesh Name: SM_Veh_Pickup_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_SteeringW
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Pickup_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_TractorOld_01
+    Mesh Name: SM_Veh_TractorOld_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Old_SteeringW
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_TractorOld_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_TractorOld_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_TractorOld_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_TractorOld_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
+Prefab Name: SM_Veh_Tractor_01
+    Mesh Name: SM_Veh_Tractor_01
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Arm
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Bucket
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Glass
+        Slot: PolygonFarm_Glass (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_SteeringW
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Wheel_fl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Wheel_fr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Wheel_rl
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+    Mesh Name: SM_Veh_Tractor_Wheel_rr
+        Slot: PolygonFarm_01_A (PolygonFarm_Texture_01_A)
+
